@@ -1,0 +1,177 @@
+{
+  "n_samples": 408,
+  "accuracy": 0.2157,
+  "macro_f1": 0.1955,
+  "weighted_f1": 0.2423,
+  "macro_precision": 0.2838,
+  "macro_recall": 0.4952,
+  "per_class": {
+    "strongly_negative": {
+      "class_id": 0,
+      "class_name": "Strongly Negative",
+      "precision": 0.1127,
+      "recall": 0.7273,
+      "f1": 0.1951,
+      "support": 11,
+      "predicted_count": 71,
+      "prediction_to_support_ratio": 6.4545,
+      "strict_collapse": false,
+      "partial_collapse": false
+    },
+    "weakly_negative": {
+      "class_id": 1,
+      "class_name": "Weakly Negative",
+      "precision": 0.1628,
+      "recall": 0.5185,
+      "f1": 0.2478,
+      "support": 27,
+      "predicted_count": 86,
+      "prediction_to_support_ratio": 3.1852,
+      "strict_collapse": false,
+      "partial_collapse": false
+    },
+    "neutral": {
+      "class_id": 2,
+      "class_name": "Neutral",
+      "precision": 0.98,
+      "recall": 0.1441,
+      "f1": 0.2513,
+      "support": 340,
+      "predicted_count": 50,
+      "prediction_to_support_ratio": 0.1471,
+      "strict_collapse": false,
+      "partial_collapse": true
+    },
+    "weakly_positive": {
+      "class_id": 3,
+      "class_name": "Weakly Positive",
+      "precision": 0.1071,
+      "recall": 0.6316,
+      "f1": 0.1832,
+      "support": 19,
+      "predicted_count": 112,
+      "prediction_to_support_ratio": 5.8947,
+      "strict_collapse": false,
+      "partial_collapse": false
+    },
+    "strongly_positive": {
+      "class_id": 4,
+      "class_name": "Strongly Positive",
+      "precision": 0.0562,
+      "recall": 0.4545,
+      "f1": 0.1,
+      "support": 11,
+      "predicted_count": 89,
+      "prediction_to_support_ratio": 8.0909,
+      "strict_collapse": false,
+      "partial_collapse": false
+    }
+  },
+  "confusion_matrix_raw": [
+    [
+      8,
+      2,
+      1,
+      0,
+      0
+    ],
+    [
+      5,
+      14,
+      0,
+      5,
+      3
+    ],
+    [
+      52,
+      68,
+      49,
+      94,
+      77
+    ],
+    [
+      2,
+      1,
+      0,
+      12,
+      4
+    ],
+    [
+      4,
+      1,
+      0,
+      1,
+      5
+    ]
+  ],
+  "confusion_matrix_normalized": [
+    [
+      0.7273,
+      0.1818,
+      0.0909,
+      0.0,
+      0.0
+    ],
+    [
+      0.1852,
+      0.5185,
+      0.0,
+      0.1852,
+      0.1111
+    ],
+    [
+      0.1529,
+      0.2,
+      0.1441,
+      0.2765,
+      0.2265
+    ],
+    [
+      0.1053,
+      0.0526,
+      0.0,
+      0.6316,
+      0.2105
+    ],
+    [
+      0.3636,
+      0.0909,
+      0.0,
+      0.0909,
+      0.4545
+    ]
+  ],
+  "minority_collapse_summary": {
+    "strict_collapse_count": 0,
+    "strict_collapse_classes": [],
+    "partial_collapse_count": 1,
+    "partial_collapse_classes": [
+      "Neutral"
+    ]
+  },
+  "error_taxonomy": {
+    "intensity_confusion": {
+      "count": 12,
+      "share_of_errors": 3.75
+    },
+    "neutral_weak_boundary": {
+      "count": 162,
+      "share_of_errors": 50.62
+    },
+    "neutral_strong_skip": {
+      "count": 130,
+      "share_of_errors": 40.62
+    },
+    "polarity_flip": {
+      "count": 16,
+      "share_of_errors": 5.0
+    }
+  },
+  "run_id": "muril_wce_hinglish_s3",
+  "config_id": "C2",
+  "model_key": "muril",
+  "loss_type": "wce",
+  "text_type": "hinglish",
+  "seed": 3,
+  "best_val_macro_f1": 0.1839
+}

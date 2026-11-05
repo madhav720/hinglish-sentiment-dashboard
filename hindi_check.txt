@@ -1,0 +1,50 @@
+ID: 2314
+Hinglish: pahle sab log ek hi din rakhte the phir aapas men jhagarne lage tab uda ne najat se ush bri dene vale aur azab se darane vale paimbron ko bheja aur in paimbron ke sath baraha kitab bhi nazil ki taki jin baton men log jhagarte the kitabe uda uska faisla kar de aur phir afsos to ye hai ki is hukm se ikhtelaph kiya bhi to unhin logon ne jin ko kitab di gayi thi aur vah bhi jab un ke pas uda ke saph ehkam aa chuke uske bad aur vah bhi aapas ki shararat se tab uda ne apni meharbani se alis eemandaron ko vah rahe ha dikha di jis men un logon ne ikhtelaph dal rakha tha aur uda jis ko chahe rahe rast ki hidayat karta hai
+Hindi:    पहले सब लोग एक ही दिन रख्ते थे फिर आपस में झगर्ने लगे तब उदा ने नजत से उश ब्रि देने वले और सज़ा से दरने वले पैम्ब्रोन को भेजा और इन पैम्ब्रोन के साथ बरहा किताब भी नज़िल की तकि जिन बतोन में लोग झगर्ते थे कितबे उदा उसका फ़ैस्ला कर दे और फिर अफ़्सोस तो यह है की इस हुक्म से इख्तेलफ किया भी तो उन्हिन लोगों ने जिन को किताब दी गई थी और वह भी जब उन के पस उदा के सफ एह्कम आ चुके उसके बुरा और वह भी आपस की शररत से तब उदा ने अपनी मेहर्बनि से अलिस ईमन्दरोन को वह रहे हा दिखा दी जिस में उन लोगों ने इख्तेलफ दल रखा था और उदा जिस को चहे रहे रस्त की हिदयत करता है
+English:  pahle all people ek only day rakhte were phir aapas in jhagarne lage then uda ne najat from ush bri dene vale and punishment from darane vale paimbron to bheja and in paimbron of with baraha book also nazil of taki jin baton in people jhagarte were kitabe uda his faisla kar de and phir afsos then this is of is hukm from ikhtelaph did also then unhin people ne jin to book di went was and that also when un of pas uda of saph ehkam aa chuke his bad and that also aapas of shararat from then uda ne own meharbani from alis eemandaron to that continuing ha dikha di jis in un people ne ikhtelaph dal rakha was and uda jis to chahe continuing rast of hidayat does is
+------------------------------------------------------------
+ID: 406
+Hinglish: ve kahte hai ,  ae vyakti , jisapar remembrance avatrit huaa , tum nishchay hi mad ho !
+Hindi:    वे कह्ते है, अए व्यक्ति, जिसपर रेमेम्ब्रन्के अवत्रित हुआ, तुम निश्चय ही मद हो!
+English:  ve kahte is, ae person, jisapar remembrance avatrit happened, you nishchay only mad be!
+------------------------------------------------------------
+ID: 1130
+Hinglish: aur usne kaha, allah se hatakar tumne kuchh moortiyon ko keval sansarik jivan men apne parasprik prem ke karan pakar rakha hai. phir iyamat ke din tummen se ek-doosre ka inkar karega aur tummen se ek-doosre par lanat karega. tumhara thaur-thikana aag hai aur tumhara koee sahayak n hoga.
+Hindi:    और उस्ने कहा, अल्लाह से हतकर तुमने कुछ मूर्तियोन को केवल सन्सरिक जिवन में अपने परस्प्रिक प्रेम के करन पकर रखा है. फिर इयमत के दिन तुम्मेन से एक-दूसरे का इन्कर करेगा और तुम्मेन से एक-दूसरे पर लनत करेगा. तुम्हारा थौर थिकना आग है और तुम्हारा कोई सहयक न होगा.
+English:  and usne said, God from hatakar you some moortiyon to keval sansarik jivan in own parasprik prem of karan pakar rakha is. phir iyamat of day tummen from each other of inkar will do and tummen from each other on lanat will do. your thaur thikana aag is and your anyone sahayak n hoga.
+------------------------------------------------------------
+ID: 180
+Hinglish: crowding bhi destruction ke any karnon ko janm deti hai, jaise bimari aur aparyapt poshan.
+Hindi:    क्रोव्दिन्ग भी देस्त्रुक्तिओन के अन्य कर्नोन को जन्म देति है, जैसे बिमरि और अपर्यप्त पोशन.
+English:  crowding also destruction of any karnon to janm deti is, like bimari and aparyapt poshan.
+------------------------------------------------------------
+ID: 179
+Hinglish: jo bhi mere sath chalta hai uski life and death mere hathon men hoti hai .
+Hindi:    जो भी मेरे साथ चल्ता है उसकी जीवन अन्द मृत्यु मेरे हथोन में होती है.
+English:  jo also my with chalta is her life and death my hathon in is is.
+------------------------------------------------------------
+ID: 2145
+Hinglish: jab ve usmen dale jaenge to uski daharne ki bhayanak aavaz sunenge aur vah prkop se biphar rahi hogi.
+Hindi:    जब वे उस्मेन दले जएन्गे तो उसकी दहर्ने की भयनक आवज़ सुनेन्गे और वह प्र्कोप से बिफर रही होगि.
+English:  when ve usmen dale jaenge then her daharne of bhayanak aavaz sunenge and that prkop from biphar continuing hogi.
+------------------------------------------------------------
+ID: 2615
+Hinglish: phir azab  god  ne unhen eat dala aur vah good the hi to god ne jo kuchh tumhen lawful tayyab  thankful  s di hai usko  shau se  khao aur agar tum khuda hi ki parastish  ka dava karte ho
+Hindi:    फिर सज़ा गोद ने उन्हें एअत दला और वह अच्छा थे ही तो गोद ने जो कुछ तुम्हें लव्फ़ुल तय्यब थन्क्फ़ुल स दी है उस्को शौ से खओ और अगर तुम ख़ुदा ही की परस्तिश का दवा करते हो
+English:  phir punishment god ne them eat dala and that good were only then god ne jo some you lawful tayyab thankful s di is usko shau from khao and agar you God only of parastish of dava do be
+------------------------------------------------------------
+ID: 2156
+Hinglish: ismen to sha hi nahin ki kingship heavens v life ki hukoomat allah hi ke lie as hai vahi  jise chahe  death hai aur  jise chahe  marta hai aur tum logon ka allah ke siva n koee supporter hai n madadgar
+Hindi:    इस्मेन तो शा ही नहीं की किन्ग्शिप हेअवेन्स व जीवन की हुकूमत अल्लाह ही के लिए अस है वहि जिसे चहे मृत्यु है और जिसे चहे मर्ता है और तुम लोगों का अल्लाह के सिवा न कोई सुप्पोर्तेर है न मदद्गर
+English:  ismen then sha only not of kingship heavens v life of hukoomat God only of for as is vahi jise chahe death is and jise chahe marta is and you people of God of siva n anyone supporter is n madadgar
+------------------------------------------------------------
+ID: 1565
+Hinglish: is mad ke lie shown jane ke lie info
+Hindi:    इस मद के लिए शोव्न जने के लिए इन्फ़ो
+English:  is mad of for shown jane of for info
+------------------------------------------------------------
+ID: 1257
+Hinglish: aur munaphi mard aur munafi aurton aur mushrik men and women aurton par jo uda ke ha men bure bure khyal rakhte hain azab nazil kare un par musibat ki bari gardish hai aur uda un par zabnak hai aur usne us par lanat ki hai aur unke lie jahannum ko taiyar kar rakha hai aur vah kya buri jagah hai
+Hindi:    और मुनफि मर्द और मुनफ़ि और्तोन और मुश्रिक में अन्द वोमेन और्तोन पर जो उदा के हा में bure bure ख्यल रख्ते हैं सज़ा नज़िल करे उन पर मुसिबत की बरि गर्दिश है और उदा उन पर ज़ब्नक है और उस्ने उस पर लनत की है और उनके लिए नरक को तैयर कर रखा है और वह क्या बुरी जगह है
+English:  and munaphi mard and munafi aurton and mushrik in and women aurton on jo uda of ha in bad bad khyal rakhte are punishment nazil kare un on musibat of bari gardish is and uda un on zabnak is and usne us on lanat of is and their for hell to taiyar kar rakha is and that kya bad jagah is
+------------------------------------------------------------

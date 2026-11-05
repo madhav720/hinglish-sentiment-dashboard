@@ -1,0 +1,185 @@
+{
+  "n_samples": 408,
+  "accuracy": 0.8333,
+  "macro_f1": 0.1818,
+  "weighted_f1": 0.7576,
+  "macro_precision": 0.1667,
+  "macro_recall": 0.2,
+  "per_class": {
+    "strongly_negative": {
+      "class_id": 0,
+      "class_name": "Strongly Negative",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 11,
+      "predicted_count": 0,
+      "prediction_to_support_ratio": 0.0,
+      "strict_collapse": true,
+      "partial_collapse": true
+    },
+    "weakly_negative": {
+      "class_id": 1,
+      "class_name": "Weakly Negative",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 27,
+      "predicted_count": 0,
+      "prediction_to_support_ratio": 0.0,
+      "strict_collapse": true,
+      "partial_collapse": true
+    },
+    "neutral": {
+      "class_id": 2,
+      "class_name": "Neutral",
+      "precision": 0.8333,
+      "recall": 1.0,
+      "f1": 0.9091,
+      "support": 340,
+      "predicted_count": 408,
+      "prediction_to_support_ratio": 1.2,
+      "strict_collapse": false,
+      "partial_collapse": false
+    },
+    "weakly_positive": {
+      "class_id": 3,
+      "class_name": "Weakly Positive",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 19,
+      "predicted_count": 0,
+      "prediction_to_support_ratio": 0.0,
+      "strict_collapse": true,
+      "partial_collapse": true
+    },
+    "strongly_positive": {
+      "class_id": 4,
+      "class_name": "Strongly Positive",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 11,
+      "predicted_count": 0,
+      "prediction_to_support_ratio": 0.0,
+      "strict_collapse": true,
+      "partial_collapse": true
+    }
+  },
+  "confusion_matrix_raw": [
+    [
+      0,
+      0,
+      11,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      27,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      340,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      19,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      11,
+      0,
+      0
+    ]
+  ],
+  "confusion_matrix_normalized": [
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "minority_collapse_summary": {
+    "strict_collapse_count": 4,
+    "strict_collapse_classes": [
+      "Strongly Negative",
+      "Weakly Negative",
+      "Weakly Positive",
+      "Strongly Positive"
+    ],
+    "partial_collapse_count": 4,
+    "partial_collapse_classes": [
+      "Strongly Negative",
+      "Weakly Negative",
+      "Weakly Positive",
+      "Strongly Positive"
+    ]
+  },
+  "error_taxonomy": {
+    "intensity_confusion": {
+      "count": 0,
+      "share_of_errors": 0.0
+    },
+    "neutral_weak_boundary": {
+      "count": 46,
+      "share_of_errors": 67.65
+    },
+    "neutral_strong_skip": {
+      "count": 22,
+      "share_of_errors": 32.35
+    },
+    "polarity_flip": {
+      "count": 0,
+      "share_of_errors": 0.0
+    }
+  },
+  "run_id": "muril_ce_hinglish_s1",
+  "config_id": "C1",
+  "model_key": "muril",
+  "loss_type": "ce",
+  "text_type": "hinglish",
+  "seed": 1,
+  "best_val_macro_f1": 0.1815
+}

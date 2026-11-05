@@ -1,0 +1,6 @@
+class_id,class_name,train_count,val_count,test_count,total_count,class_weight_train_only
+0,strongly_negative,52,11,11,74,7.3269
+1,weakly_negative,129,28,27,184,2.9535
+2,neutral,1584,339,340,2263,0.2405
+3,weakly_positive,91,20,19,130,4.1868
+4,strongly_positive,49,10,11,70,7.7755

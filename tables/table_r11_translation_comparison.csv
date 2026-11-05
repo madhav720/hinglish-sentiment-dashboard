@@ -1,0 +1,5 @@
+Comparison,Model,Loss,Macro_F1_Hinglish_C,Macro_F1_English_T,Delta_Macro_F1,Accuracy_C,Accuracy_T,Delta_Accuracy
+C1 vs T1,muril,ce,0.1818,0.1818,0.0,0.8333,0.8333,0.0
+C3 vs T3,muril,focal,0.1818,0.1818,0.0,0.8333,0.8333,0.0
+C4 vs T4,hingroberta,ce,0.1818,0.1818,0.0,0.8333,0.8333,0.0
+C6 vs T6,hingroberta,focal,0.1818,0.1818,0.0,0.8333,0.8333,0.0

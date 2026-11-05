@@ -1,0 +1,47 @@
+{
+  "split_seed": 42,
+  "split_hash": "9400db5dde5db995213c95d36925b9d8792b7fb0cbf911b889f923c0439951d6",
+  "total_rows": 2721,
+  "train_rows": 1905,
+  "val_rows": 408,
+  "test_rows": 408,
+  "train_share": 70.01,
+  "val_share": 14.99,
+  "test_share": 14.99,
+  "class_distribution": {
+    "train": {
+      "strongly_negative": 52,
+      "weakly_negative": 129,
+      "neutral": 1584,
+      "weakly_positive": 91,
+      "strongly_positive": 49
+    },
+    "val": {
+      "strongly_negative": 11,
+      "weakly_negative": 28,
+      "neutral": 339,
+      "weakly_positive": 20,
+      "strongly_positive": 10
+    },
+    "test": {
+      "strongly_negative": 11,
+      "weakly_negative": 27,
+      "neutral": 340,
+      "weakly_positive": 19,
+      "strongly_positive": 11
+    }
+  },
+  "class_weights_train_only": {
+    "0": 7.3269,
+    "1": 2.9535,
+    "2": 0.2405,
+    "3": 4.1868,
+    "4": 7.7755
+  },
+  "leakage_verification": {
+    "id_overlap": 0,
+    "normalized_text_overlap": 0,
+    "group_id_overlap": 0,
+    "status": "PASSED_ZERO_LEAKAGE"
+  }
+}

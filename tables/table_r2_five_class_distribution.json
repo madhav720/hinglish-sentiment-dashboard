@@ -1,0 +1,67 @@
+{
+  "total_rows": 2721,
+  "disagreements": 61,
+  "raw_agreement_percent": 97.76,
+  "cohen_kappa": 0.9242,
+  "quadratic_weighted_kappa": 0.9677,
+  "gate_g1_status": "PASS",
+  "five_class_counts": {
+    "strongly_negative": 74,
+    "weakly_negative": 184,
+    "neutral": 2263,
+    "weakly_positive": 130,
+    "strongly_positive": 70
+  },
+  "five_class_shares": {
+    "strongly_negative": 2.72,
+    "weakly_negative": 6.76,
+    "neutral": 83.17,
+    "weakly_positive": 4.78,
+    "strongly_positive": 2.57
+  },
+  "flags_summary": {
+    "negation": 395,
+    "orig_conflict": 1309,
+    "uncertain": 61,
+    "mixed": 47,
+    "short_context": 11,
+    "slang": 1
+  },
+  "rater_confusion_matrix": [
+    [
+      74,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      30,
+      154,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2263,
+      17,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      99,
+      14
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      70
+    ]
+  ]
+}

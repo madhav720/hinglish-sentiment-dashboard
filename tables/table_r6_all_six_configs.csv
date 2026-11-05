@@ -1,0 +1,7 @@
+Config,Model,Loss,Seeds_Count,Macro_F1_Mean,Macro_F1_SD,Accuracy_Mean,Accuracy_SD,Weighted_F1_Mean,Weighted_F1_SD
+C1,muril,ce,3,0.1818,0.0,0.8333,0.0,0.7576,0.0
+C2,muril,wce,3,0.1891,0.0134,0.2067,0.02,0.2274,0.0295
+C3,muril,focal,3,0.1818,0.0,0.8333,0.0,0.7576,0.0
+C4,hingroberta,ce,3,0.1818,0.0,0.8333,0.0,0.7576,0.0
+C5,hingroberta,wce,3,0.1891,0.0134,0.2067,0.02,0.2274,0.0295
+C6,hingroberta,focal,3,0.1818,0.0,0.8333,0.0,0.7576,0.0

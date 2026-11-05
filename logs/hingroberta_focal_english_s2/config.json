@@ -1,0 +1,16 @@
+{
+  "run_id": "hingroberta_focal_english_s2",
+  "config_id": "T6",
+  "model_key": "hingroberta",
+  "hub_identifier": "l3cube-pune/hing-roberta",
+  "loss_type": "focal",
+  "text_type": "english",
+  "seed": 2,
+  "gamma": 2.0,
+  "epochs": 4,
+  "batch_size": 16,
+  "learning_rate": 3e-05,
+  "weight_decay": 0.01,
+  "is_smoke_test": true,
+  "start_time": "2026-10-15T16:24:52Z"
+}

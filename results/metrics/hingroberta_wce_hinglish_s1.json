@@ -1,0 +1,177 @@
+{
+  "n_samples": 408,
+  "accuracy": 0.2206,
+  "macro_f1": 0.1981,
+  "weighted_f1": 0.2465,
+  "macro_precision": 0.2877,
+  "macro_recall": 0.5032,
+  "per_class": {
+    "strongly_negative": {
+      "class_id": 0,
+      "class_name": "Strongly Negative",
+      "precision": 0.1127,
+      "recall": 0.7273,
+      "f1": 0.1951,
+      "support": 11,
+      "predicted_count": 71,
+      "prediction_to_support_ratio": 6.4545,
+      "strict_collapse": false,
+      "partial_collapse": false
+    },
+    "weakly_negative": {
+      "class_id": 1,
+      "class_name": "Weakly Negative",
+      "precision": 0.1429,
+      "recall": 0.5556,
+      "f1": 0.2273,
+      "support": 27,
+      "predicted_count": 105,
+      "prediction_to_support_ratio": 3.8889,
+      "strict_collapse": false,
+      "partial_collapse": false
+    },
+    "neutral": {
+      "class_id": 2,
+      "class_name": "Neutral",
+      "precision": 1.0,
+      "recall": 0.1471,
+      "f1": 0.2564,
+      "support": 340,
+      "predicted_count": 50,
+      "prediction_to_support_ratio": 0.1471,
+      "strict_collapse": false,
+      "partial_collapse": true
+    },
+    "weakly_positive": {
+      "class_id": 3,
+      "class_name": "Weakly Positive",
+      "precision": 0.125,
+      "recall": 0.6316,
+      "f1": 0.2087,
+      "support": 19,
+      "predicted_count": 96,
+      "prediction_to_support_ratio": 5.0526,
+      "strict_collapse": false,
+      "partial_collapse": false
+    },
+    "strongly_positive": {
+      "class_id": 4,
+      "class_name": "Strongly Positive",
+      "precision": 0.0581,
+      "recall": 0.4545,
+      "f1": 0.1031,
+      "support": 11,
+      "predicted_count": 86,
+      "prediction_to_support_ratio": 7.8182,
+      "strict_collapse": false,
+      "partial_collapse": false
+    }
+  },
+  "confusion_matrix_raw": [
+    [
+      8,
+      2,
+      0,
+      0,
+      1
+    ],
+    [
+      5,
+      15,
+      0,
+      2,
+      5
+    ],
+    [
+      52,
+      86,
+      50,
+      81,
+      71
+    ],
+    [
+      2,
+      1,
+      0,
+      12,
+      4
+    ],
+    [
+      4,
+      1,
+      0,
+      1,
+      5
+    ]
+  ],
+  "confusion_matrix_normalized": [
+    [
+      0.7273,
+      0.1818,
+      0.0,
+      0.0,
+      0.0909
+    ],
+    [
+      0.1852,
+      0.5556,
+      0.0,
+      0.0741,
+      0.1852
+    ],
+    [
+      0.1529,
+      0.2529,
+      0.1471,
+      0.2382,
+      0.2088
+    ],
+    [
+      0.1053,
+      0.0526,
+      0.0,
+      0.6316,
+      0.2105
+    ],
+    [
+      0.3636,
+      0.0909,
+      0.0,
+      0.0909,
+      0.4545
+    ]
+  ],
+  "minority_collapse_summary": {
+    "strict_collapse_count": 0,
+    "strict_collapse_classes": [],
+    "partial_collapse_count": 1,
+    "partial_collapse_classes": [
+      "Neutral"
+    ]
+  },
+  "error_taxonomy": {
+    "intensity_confusion": {
+      "count": 12,
+      "share_of_errors": 3.77
+    },
+    "neutral_weak_boundary": {
+      "count": 167,
+      "share_of_errors": 52.52
+    },
+    "neutral_strong_skip": {
+      "count": 123,
+      "share_of_errors": 38.68
+    },
+    "polarity_flip": {
+      "count": 16,
+      "share_of_errors": 5.03
+    }
+  },
+  "run_id": "hingroberta_wce_hinglish_s1",
+  "config_id": "C5",
+  "model_key": "hingroberta",
+  "loss_type": "wce",
+  "text_type": "hinglish",
+  "seed": 1,
+  "best_val_macro_f1": 0.1644
+}

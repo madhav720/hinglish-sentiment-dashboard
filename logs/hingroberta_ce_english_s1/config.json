@@ -1,0 +1,16 @@
+{
+  "run_id": "hingroberta_ce_english_s1",
+  "config_id": "T4",
+  "model_key": "hingroberta",
+  "hub_identifier": "l3cube-pune/hing-roberta",
+  "loss_type": "ce",
+  "text_type": "english",
+  "seed": 1,
+  "gamma": null,
+  "epochs": 4,
+  "batch_size": 16,
+  "learning_rate": 3e-05,
+  "weight_decay": 0.01,
+  "is_smoke_test": true,
+  "start_time": "2026-10-15T16:24:39Z"
+}

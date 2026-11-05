@@ -1,0 +1,409 @@
+id,group_id,text,label_id,label,orig_label,orig_sentiment,flags
+2661,2641,phir hamne bai logon ko tabah v barbad kar diya,0,strongly_negative,0,negative,
+81,81,yaoob ne kaha ae son  dekho bardar  lest apna vision apne brothers se n dohrana  varna  vah log tumhare lie scheme ki tadbir karne lagegen ismen to sha hi nahin ki shaitan man ka sworn huaa enemy hai,0,strongly_negative,0,negative,negation
+1930,1921,aur unse kaha taste  apne azab ka ordeal chakho ye vahi hai jiski tum jaldi machaya karte the,0,strongly_negative,2,positive,orig_conflict
+251,250,thori bhi asuvidha se ve upset ho uthte hain aur government officials ke lie unhen raste par task to bring samasya ban jati hai,0,strongly_negative,0,negative,
+264,263,aur unse kaha jaega apne azab ka maza chakho ye vahi hai jiski tum jaldi machaya karte the,0,strongly_negative,2,positive,orig_conflict
+370,369,to kya ye log chastisement azab ki jaldi kar rahe hain,0,strongly_negative,1,neutral,orig_conflict
+665,663,"bhir-bhar bhi destruction ke other factors ko janm deti hai , jaise disease aur aparyapt poshan.",0,strongly_negative,0,negative,
+978,976,kya jis better ne fear ke auph aur ushnoodi par apni building ki buniyad dali ho vah good achchha hai ya vah better jisne apni building ki buniyad is bank kinare ke brink par rakhi ho jismen darar par chuki ho aur agar vah chahta ho phir use guides evildoers ke jahannum ki fire men phat pade aur fear zalim logon ko mnzilen masood tak nahin pahunchaya karta,0,strongly_negative,2,positive,mixed;negation;orig_conflict
+1126,1123,pahle ke till ne tablie risalat yahan liars ki jab  aum ke eeman lane se  paimbar mayoos ho messengers aur un logon ne samajh liya ki vah jhuthlae messengers to unke pas hamari  as  help aa pahunchi to jise hamne chaha najat di aur hamara azab sinners logon ke sar se to tala nahin jata,0,strongly_negative,0,negative,negation
+66,66,delhi ke last ne ekjut ho 10 april ko unke khilaph cheating ke aarop ke sath cng kit scam men unki role batate he fir darj karvaee,0,strongly_negative,0,negative,
+265,264,unki eyes spoke of death de rahi thin.,0,strongly_negative,0,negative,
+189,189,"smoking , madira drinking , chinta , prdushan , high environment",1,weakly_negative,0,negative,
+2697,2676,aur ye kuchh khuda ke vaste difficult nahin,1,weakly_negative,2,positive,negation;orig_conflict
+1496,1490,reduce local swelling dard ko kam karne hetu barph ki thaili ka pryog kiya jata hai.,1,weakly_negative,0,negative,uncertain
+1139,1135,jab unhonne ise banaya to vah senator obama tha  bad men unhonne name badal diya,1,weakly_negative,2,positive,orig_conflict
+92,92,lock file ko an-lk karne men asafal,1,weakly_negative,0,negative,negation
+788,786,"created the heavens aur dharti ko aur jo kuchh unke madhy hai, soddeshy paida kiya hai, aur vah iyamat ki ghari to anivaryta aanevali hai. ata tum bhali prkar darguzar kshma se kam lo",1,weakly_negative,2,positive,orig_conflict
+154,154,"sardar bhat sinh pnjab ki  naujvan bharat sabha  nam se viyat yuva aandolan ke neta the , jisse bad men subhash chandr ka bhi antrng sahachary sthapit huaa",1,weakly_negative,1,neutral,orig_conflict
+1172,1168,tab use fikr huee ki corpse ko kya kare  to earth ne ek raven ko bheja ki vah zamin ko kuredne able taki use  abil  ko dikha de ki use apne brother ki corpse kyonkar alas chahie  ye dekhakar  vah kahne able hae afsos kya i us se bhi aajiz hoon ki us raven ki barabri kar sakoo ki  bala se yah bhi hota  to apne brother ki corpse chhupa deta alagaraz vah  apni harakat se  bahut pachhtaya,1,weakly_negative,0,negative,
+756,754,"god pas jo kuchh hai vah to samapt ho reward , kintu allah ke pas jo kuchh hai vahi due rahnevala hai. jin transient ne patience se kam liya unhen to , jo uttam karm ve karte rahe uske badle men , ham avashy unka prtidan prdan karenge",1,weakly_negative,2,positive,orig_conflict
+2110,2097,i sochta hoon ki hamare pas mexico men problem hai,1,weakly_negative,0,negative,
+2386,2369,vaccine available hai aur pregnancy women ko nahin diya ja sakta hai  vaccine lene ke bad women ko least se least ek month tak garbhdharan nahin karna chahiye,1,weakly_negative,1,neutral,negation;orig_conflict
+924,922,"kharab shram management relationship aur workers ka sahabaddh morale poor hona tatha poor productivity , strikes , talabndiyan itya di.",1,weakly_negative,0,negative,uncertain
+1424,1419,"yadypi motions house ki variety proceedings se snbndhit hote hain tathapi unhen tin principal fall men rakha ja sakta hai , arthat mool  sabstentiv  motions , substitute  sabastityoot  motions aur subsidiary  sabsidiyri  motions",1,weakly_negative,1,neutral,orig_conflict
+1744,1737,internal error : invalid format men UID :  uid,1,weakly_negative,0,negative,
+629,627,day ki life men ama ki roktham plain ki jae aur tabiyat thik nahin hai se lekar gathiya tak ki sabhi sorts ki problems se kis sorts jaduee dhng se mukti paee jaye,1,weakly_negative,0,negative,negation
+838,836,"jise unhonne mera sabse bara vrat kaha tha usne unke ullaspoorn aur manovinodi svbhav ko kis sima tak vapas lautaya, yah us patr se spasht hai jise unhonne tin din bad mira bahan ke lie likhvaya thaa mai yah patr sadhe tin baje ki prarthna ke phauran bad likhva raha hoon jabki main apna vah bhojan kar raha hoon jo ek vrat rakhnevale vyakti ke lie nirdharit hai.",1,weakly_negative,2,positive,orig_conflict
+1920,1911,"kintu yah stage, kam-se-kam ek practical force ke roop men, high perfection ki ek bad ki avastha men hi prapt hoti hai.",1,weakly_negative,2,positive,orig_conflict;uncertain
+635,633,unhonne ek nahin kee kam aese man for centuries tak unki mahapurush ke rup men manyta kamay rakhenge.,1,weakly_negative,2,positive,negation;orig_conflict
+2373,2356,"yadi children ko , is project se previous play rachna ka kuchh experience hai , to project ki story ko banane men unhen kam samay lagega.",1,weakly_negative,2,positive,orig_conflict
+2309,2293,"aap uski difficult teenage years , jo kabhi-kbhi bari kathin avastha hoti hai , usse apna niji antrng sambndh sthapit kar sakte hain",1,weakly_negative,0,negative,uncertain
+232,231,"ata patient se kam lo , uttam patient",1,weakly_negative,2,positive,orig_conflict
+2389,2372,iske bad bhaybhit aur aashnka se bhare rajraj varma samne forward,1,weakly_negative,0,negative,
+2603,2583,aur jab unse kaha gaya ki  jo uran  khuda ne nazil kiya hai us par eeman lao to kahne lage ki everything to usi allah  tauret  par eeman lae hain jo everything par nazil ki gee thi aur us allah  kuran  ko jo uske bad yourselves hai nahin mante hain halanki vah  uran  ha hai aur us allah  tauret  ki jo unke pas hai tasdi bhi karti hai magar us allah kuran ka jo uske bad yourselves hai inkar karte hain  ae rasool  unse ye to poochho ki tum  tumhare burju  agar eemandar the to phir kyon khuda ke paimbron ka sabi tl karte the,1,weakly_negative,0,negative,negation;uncertain
+2695,2674,"bad men , recommendations bhi bihar state dvara svikar kar li gayi hain",1,weakly_negative,2,positive,orig_conflict
+912,910,khisakne vali vikrail phnde ka pryog shalyakriya ke bad netretar manspeshiyon ki sivan ke samanvayan hetu kiya jata hai.,1,weakly_negative,1,neutral,orig_conflict
+2535,2517,itni clear batchit honeke bad dubara mainne yah subject dokke samne explanation nahin chhera.,1,weakly_negative,2,positive,negation;orig_conflict
+745,743,pata long ki kya kam v pay the bill hai ya nahin .,1,weakly_negative,2,positive,negation;orig_conflict
+1114,1111,mudda unhen next dream girl karar diya ja raha tha,2,neutral,2,positive,orig_conflict
+2222,2206,tonight  ek year poora ho jaega.,2,neutral,1,neutral,
+1879,1870,hamne to tum logon ke pas vah kitab kuran nazil ki hai jismen tumhara bhi zikre air hai to kya tum log itna bhi samajhte,2,neutral,1,neutral,
+803,801,unmen patriotism tatha social responsibility ka spirit jagane ki jaroorat hai.,2,neutral,0,negative,orig_conflict
+1492,1486,air dispersion mdling aur transformation farmule chhah se ek article samarpit karne ke lie technical quality aur air pollution ke air dispersion mdling,2,neutral,2,positive,orig_conflict
+1402,1397,language model adapts karta hai jaise aap likhte hain,2,neutral,1,neutral,
+2501,2484,unhone apni demand ko dohraya ki earth ke nuclear prakshepnastron ko bekar aur nasht kar diya jae.,2,neutral,0,negative,orig_conflict
+1666,1659,21van edition 10 janavri-10 disnbar: 3 focused on india,2,neutral,2,positive,orig_conflict
+2345,2328,oopar sikhara bhi square raha hoga,2,neutral,2,positive,orig_conflict
+1998,1987,india 217 se bhi adhik countries ke sath sthliy aur viman seva dvara patro ka aadan-prdan karta hai.,2,neutral,1,neutral,
+343,342,non desh hamesha se peace ke allies rahe hai.,2,neutral,2,positive,orig_conflict
+1152,1148,3 tahsil committee dvara uski recommended ki jani chahiye.,2,neutral,2,positive,orig_conflict
+2719,2698,bahut snbhav hai ki vaylin ka gaj bhi ek chhari ko doosri chhari par scraping one rod vali samany jivan ki kriya ka hi viksit roop ho,2,neutral,2,positive,orig_conflict
+2113,2100,"aur kuchh disturbances ho , aap jante kya hota hai",2,neutral,0,negative,orig_conflict
+2280,2264,lid-aaut likhne men kuchh time lead sakta hai,2,neutral,1,neutral,
+638,636,unhonne yah ichchha bhi vyakt ki ki ek democratic society men unke sath samanta ka vyavhar ho.,2,neutral,1,neutral,
+2613,2593,budget fact karte hue budget speech diya jata hai jo vastav men parliament men sabse important bhashnon men se ek hota hai,2,neutral,2,positive,orig_conflict
+133,133,bharavi karib karib kalidas ke contemporary the,2,neutral,1,neutral,
+1175,1171,cross many small gahri enter the deep karte hain aur unhen marg men kee chhote-chhote nale aur bare-bare patthar par karne parte hain.,2,neutral,2,positive,orig_conflict
+1307,1303,iske lie aapko account ekaunt men lgin karna admit jisse ki aap apne photoyukt prvesh card ke print photograph printout saken.,2,neutral,2,positive,orig_conflict
+1734,1727,"pumping system jal ko khule kuen, bore, stream, pond, nahar aadi se khinchti hai.",2,neutral,2,positive,orig_conflict
+2003,1992,parantu harishchandr ka aagrah tha ki yadi unhen aadh ghanta ka bhi samay diya jae to vah use yad kar lenge.,2,neutral,1,neutral,
+458,456,"gora ne few der silence rahakar kaha , dekhie , in sab mamlon men mujhe n phnsaiye.",2,neutral,2,positive,orig_conflict
+561,559,"bharat ke shri pranab mukherjee mukharji kal 27 november, 2012 pnjab ludhiyana ki ek divsiy yatra karenge.",2,neutral,1,neutral,
+1069,1066,balki ye log to ye kahte hain ki hamne apne bap dadaon ko ek tarike par paya aur ham unko dam b dam thik raste par chale ja rahen hain,2,neutral,1,neutral,
+1939,1930,aap expect kar sakte hai ki health visitor expect to receive ke lie visit a,2,neutral,1,neutral,
+277,276,"soochna aur praudyogiki kshetr ne bharat ko soochna praudyogiki,bipio tatha sphtveyar sevaon ka prmukh niryatak banate hue ek major services hub ke roop men vishv men sthapit kar diya hai.",2,neutral,1,neutral,
+2207,2192,vah tumhare forgive your sins kar dega aur tumhen aese bagon men dakhil karega jinke niche nahren bah rahi hogi aur un achchhe gharon men bhi jo gardens with streams honge. yahi bari saphalta hai,2,neutral,2,positive,orig_conflict
+2493,2476,1 ye niymit defined time frame nahin karti hai,2,neutral,1,neutral,negation
+2146,2133,"ye the turban, chnvron ki jori, umbrella, sword, chappal tatha rajsi that-bat se rahna.",2,neutral,1,neutral,
+1870,1861,aur great gunah par violation rahte the,2,neutral,2,positive,orig_conflict
+2225,2209,aur aap vain ke ek glass ke sath aaram se apne feet oopar kar ke baithte hain,2,neutral,1,neutral,
+20,20,continue rakhen lagoo kar raha hai ke sath resolved conflicts,2,neutral,0,negative,orig_conflict
+1715,1708,proxy ke madhyam se connection se inkar kar diya,2,neutral,0,negative,orig_conflict
+1638,1632,kendriy prshasit called union territories kshetr kaha jata hai.,2,neutral,1,neutral,
+382,381,astonished in media knpniyon ki hava nikal di.,2,neutral,2,positive,orig_conflict
+620,618,aur musalmanon dushamnon ke pichha karne men susti n karo agar laraee men tumko suffer harm hai to jaisi tumko suffer harm hai unko bhi vaisi hi aziyat hoti hai aur tumko ye bhi ummid hai ki tum uda se vah vah ummiden rakhte ho jo unko nasib nahin aur uda to sabse vaif aur hikamat vala hai,2,neutral,0,negative,negation;orig_conflict
+1009,1007,"i n criticism ki parvah he , n tohamat ki.",2,neutral,0,negative,orig_conflict
+1245,1241,lekin is plot men unhonne narsri preparation karne ke lie sri method ka anusaran kiya.,2,neutral,1,neutral,
+968,966,ham khud astray the to tum ko bhi astray kiya,2,neutral,1,neutral,
+1736,1729,main window ke lie die ge geometry ko lagoo karen,2,neutral,1,neutral,
+1793,1785,kuchh months hue vahan normal democratic elections hue aur result vahan ek popular radical parti-snyut popular morcha-satta men front,2,neutral,2,positive,orig_conflict
+505,503,court ne jo decree di vah ek court gave thi.,2,neutral,1,neutral,
+1445,1440,unke dil dilachaspiyon men khoe hue hote hai. unhonne chupke-chupke unjust ones whisper ki niti apnanevalon ne ki yah to bas tum jaisa hi ek manushy hai. phir kya tum dekhte-boojhte jadoo men phns jaoge,2,neutral,2,positive,orig_conflict
+1575,1569,par i meeting kaha bhi jae ya nahin,2,neutral,1,neutral,negation
+2208,2193,open 20 ya adhik hindi spelling check janchak shamil karne ke lie,2,neutral,1,neutral,
+1043,1040,accursed hue honge. jahan kahi pae ge pakare jaenge aur buri tarah jan se mare jaenge,2,neutral,1,neutral,
+2518,2500,"4k poornta poort ya dharmik pryojan ke lie ya bhagta aese pryojnon ke lie nyas ya any vidhik badhyta ke adhin dharit sampatti se udbhoot aay, ya dhara 2 ke khnd 24 ke upkhnd iik men nirdisht svaichchhik abhiday ke roop men aay prapt karne vala har vyakti, yadi vah sakal aay, jiski babat vah prtinidhi nirdhariti ke roop men nirdharniy hai, is pryojan ke lie sakal aay dhara 11 aur 12 ke upbndhon ko lagoo kie bina is adhiniyam ke adhin sngnit ki jaegi us adhikatam rakam se adhik hai jo aay-kar se prbhary nahin hai, to vihit prroop men aur vihit riti men satyapit karke aur aesi any vishishtiyan dete hue, jo vihit ki jaen, poorvavarsh ki aesi aay ki vivarni dega aur is adhiniyam ke sabhi upbndh, yathashaky, is prkar lagoo honge mano vah updhara 1 ke adhin die jane ke lie apekshit vivarni ho.",2,neutral,2,positive,negation;orig_conflict
+194,193,magar ye surely n hoga,2,neutral,0,negative,orig_conflict
+1913,1904,split mode brabar split,2,neutral,1,neutral,short_context
+2116,2103,lekin yah bat nahi hai,2,neutral,1,neutral,negation
+1532,1526,father aur son jab himalayas ki ghati men time tab aprail ka foot shuroo ho chuka tha,2,neutral,2,positive,orig_conflict
+1200,1196,unki tone se northern men bh-snyak pashtoon community ka representation n hone ko lekar pakistani ki concerns jhlakti thi,2,neutral,0,negative,orig_conflict
+622,620,aur yah ki places worship ke lie hai. ata worship ke sath kisi aur ko n pukaro,2,neutral,2,positive,orig_conflict
+125,125,indian national congress ne simon commission ke gathan par appointment prtikriya vyakt ki,2,neutral,1,neutral,
+70,70,fate account  ye chand towns ke halat hain jo ham tum se bayan karte hain unmen se others to  us vakt tak  ayam hain aur others ka tahas nahas ho gaya,2,neutral,1,neutral,
+380,379,finance bill 29 march 2000 ko published kiya gaya tha.,2,neutral,1,neutral,
+514,512,file tree ki sabhi branches ko kholta hai,2,neutral,1,neutral,
+2008,1997,esk accessors auto generate karen java,2,neutral,1,neutral,
+577,575,cookies were blocked kar di gee hain tritiy-paksh ki cookies ko bina kisi blocked without exception kiya ja raha hai:,2,neutral,0,negative,negation;orig_conflict
+789,787,kolab version jo aap istemal kar rahe hain use server,2,neutral,1,neutral,
+1677,1670,aur  ae firm  prophets ke halat men se believers un tamam stories ko tum se bayan kie dete hain jinse believers truth heart ko mazboot kar degen aur unhin stories men truth pas ha  reminder  aur mominin ke lie exhortation aur yad dahani bhi aa gee,2,neutral,2,positive,orig_conflict
+600,598,ve aam taur par achchhi english bolte hain aur ek moment ke lie impeccable ki china ki tulna men shayad yahan behatar sthiti hai,2,neutral,2,positive,orig_conflict
+1871,1862,tissue ko dekhne ke lie microscope pryog kiya gaya,2,neutral,1,neutral,
+2370,2353,india family planning association aur shakha karyalay.,2,neutral,1,neutral,
+2040,2028,ii tyuensang kary mntri tyuensang jile se snbndhit sabhi vishyon ki babat kary karega aur unke snbndh men rajypal ke pas uski sidhi pahunch hogi kintu vah unke snbndh men mukhymntri ko jankari deta rahega,2,neutral,1,neutral,
+243,242,to people today sign ruh ko to nahin  magar  tere body ko  many signs hone se  b,2,neutral,2,positive,negation;orig_conflict
+847,845,"use aesa reach raha tha mano charon dishaen use nivirta se gher rahi hon , sky mano use surroundings raha ho.",2,neutral,1,neutral,
+1552,1546,yah new visheshta sea sambndhi tatha outer space vishayak technology ke evolution se sambaddh laws aur norms ke bare men lagoo resources chahie.,2,neutral,1,neutral,
+1583,1577,aur ae heart firm ke halat men se ham un tamam isson ko tum se bayan kie dete hain jinse ham tumhare dil ko mazboot kar degen aur unhin isson men tumhare accounts truth uran aur mominin ke lie nasihat aur yad dahani bhi aa gee,2,neutral,2,positive,orig_conflict
+1658,1651,coconut aur iske products ke lie incentive prices pane ke adopting measures,2,neutral,2,positive,orig_conflict
+1300,1296,day ke lie di jane vali amount ki rashi.,2,neutral,1,neutral,
+726,724,"lekin bich men dhara kaphi tej hai, islie pakka hokar baithna.",2,neutral,2,positive,orig_conflict
+222,221,"udaharan ke taur par, ek muslim child ki shiksha ka learn to read mahatvpoorn ang tha arbi padhne ka jnjan taki vah kuran padh saken",2,neutral,2,positive,orig_conflict
+1647,1640,"pratyek sadan ka presiding officer ya koee adhikari ya snsad-sadasy jinmen asthayi roop men prakriya ya kary-snchalan ko viniymit karne ki tatha snsad ke kisi sadan ke nirnay ko lagoo karne ki shaktiyan nihit hon , in shaktiyon ke pryog ke vishay men kisi nyayalay ki adhikarita ke adhin nahin hoga anuchchhed 122  2  tatha 105  3",2,neutral,2,positive,negation;orig_conflict
+441,440,jo vajib hukook se mal men bukhl karne vala had se bane vala din men sha karne vala tha,2,neutral,0,negative,orig_conflict
+1836,1828,isi prkar mndap ki do relieved five times panch ubhar har tatvon ke anuroop hain jismen se har disha men madhyavarti ek devkoshth hai jo puna mndir prvesh ke donon aur samne ki poorvi divar ke donon khndon par prapy hai.,2,neutral,2,positive,orig_conflict
+1984,1974,ise 1856 men legislative council ke samaksh prastut kiya gaya aur1860 men parit kiya gaya.,2,neutral,1,neutral,
+2390,2373,"gora ne thori der chup rahakar kaha, dekhie, in sab mamlon men mujhe n phnsaiye.",2,neutral,2,positive,orig_conflict
+2243,2227,backward vargon ka commission bilkul beginning se hi vivadon se conspiracy raha.,2,neutral,0,negative,orig_conflict
+1979,1969,"jahan kahin economic position nahin change hai , vahan women ka darja bhi aprivartniy raha same",2,neutral,0,negative,negation;orig_conflict
+2542,2524,1 decided number me formed nahin huaa,2,neutral,2,positive,negation;orig_conflict
+1289,1285,"main ne sinned kiya hai, innocent betrayed innocent blood diya hai",2,neutral,0,negative,orig_conflict
+546,544,har drop more crop tathahar khet ko paniko dhyan men rakhte hue prdhan mntri krishi sinchaee yojnaka kavrej baaya gaya hai.,2,neutral,0,negative,orig_conflict
+1685,1678,vah do days se ubkaee ki complaining kar raha tha,2,neutral,0,negative,orig_conflict
+1113,1110,urine men uric acid me upalabdh atydhik matra.,2,neutral,1,neutral,
+1112,1109,"ya unki misal aesi hai jaise aakash se varsha ho rahi ho jiske sath andhere hon aur garaj aur chamak bhi ho, ve bijli ki karak ke karan mrityu ke bhay se apne put their fingers de le rahe hon-aur allah ne to inkar karnevalon ko gher rakha hain",2,neutral,0,negative,orig_conflict
+1177,1173,dekhe jane vale universe ke kinare se,2,neutral,1,neutral,
+815,813,UPS critical star se niche hai aur yah computer shutdown hone ke kagar par hai,2,neutral,0,negative,orig_conflict
+1635,1629,iii   contract  ke antargat upsnvida bhi hai,2,neutral,1,neutral,
+1519,1513,aapke snjal devices and connections ko prbndhit karne ke lie notification area applet,2,neutral,1,neutral,
+1455,1450,ae mere devotees ! aaj n tumhen koee fear hai aur n tum shokakul hoge.  -,2,neutral,2,positive,orig_conflict
+1960,1950,"keval hamari aakashgnga men hi 40,000 crore stars hai.",2,neutral,0,negative,orig_conflict
+1080,1077,water sabhi living padarthon ka major constituents hai,2,neutral,1,neutral,
+537,535,"benefits  dearness allowance ya dearness pay , jab tak ki vah snbaddh employee ke superannuation ya retirement snbndhi phaydon ki computation karne men hisab men nahin liya jata ho",2,neutral,2,positive,negation;orig_conflict
+732,730,truth bat solah aane sahi hai .   gospel  čepek ne utsahpoorvak hami bhari .,2,neutral,2,positive,orig_conflict
+775,773,akhil bhartiy due to special ko special disability ke grant of leave ke lie niyam.,2,neutral,2,positive,orig_conflict
+0,0,"module , ek program hoti hai , jismen ya to source code ya machine language ke form men instructions nihit hote hain.",2,neutral,1,neutral,
+2077,2064,president ne kaha ki legislative assembly taxation tatha finance ke mamle men executive ki master hai.,2,neutral,1,neutral,
+1380,1375,machinery evn upakarnonaujaron ki purchase aavdhik rin :,2,neutral,1,neutral,
+1023,1020,jinke eyes meri remembrance ki or se parde men the aur jo kuchh sun bhi nahin sakte the,2,neutral,1,neutral,negation
+768,766,kabhi-kbhi vah ram ko affection idol ke roop men mother man lete hain aur khud ko unka tenderness,2,neutral,2,positive,orig_conflict
+1428,1423,certificate    CERTIFICATENAME   ek certification authority ka prtinidhitv karta hai,2,neutral,2,positive,orig_conflict
+1543,1537,is dress ko kitni jaldi ready kar sakte ho,2,neutral,2,positive,orig_conflict
+453,451,meri visit ka main purpose hamare bahu-aayami relations ko aur majboot banana tatha apne relations ko prga karna tha.,2,neutral,2,positive,orig_conflict
+2246,2230,bam making ke nuse search karta.,2,neutral,1,neutral,
+1863,1854,data to window par transfer kiya ja saka,2,neutral,1,neutral,
+1689,1682,"primary center , shulk centers  toll centers  ko jorta hai.",2,neutral,1,neutral,
+956,954,ODD 2 ka returns hoga 3,2,neutral,0,negative,orig_conflict
+2341,2324,parntu section 111k men ullikhit alpkalik way abhilabhon ke roop men income par pariklit aay-kar ki amount fifteen prtishat ki rate se hogi,2,neutral,2,positive,orig_conflict
+1660,1653,"manushy ko kisi poorn roop se sachchi freedom and mastery ke sath apni satta ka svami banne ke liye apni uchchatam aatma ko, apne andar ke us vastvik manushy ya uchchatam purush ko, dhoonna hoga jo svatantr hai tatha apni inalienable power ka svami hai.",2,neutral,2,positive,orig_conflict
+1057,1054,uttrapath men mention men suvarnastoop hone ka ullekh milta hai.,2,neutral,1,neutral,
+499,497,national population policy file referring jo nee external site opens hai,2,neutral,1,neutral,
+326,325,mool roop se is mndir ka nirman chauthi shatabdi ke aas-pas huaa century,2,neutral,1,neutral,
+1393,1388,"243b  powers , aadi ki responsibilities , authority aur uttardayitv-",2,neutral,2,positive,orig_conflict
+754,752,old tamil literature men murasu ka bhi kee jagah ullekh huaa hai,2,neutral,1,neutral,
+1737,1730,ae eemandaron agar o logon ne infidels ki pairvi kar li to  yad rakho  vah tumko ulte pv  kufr ki taraf  backs kar le losers phir ulte o hi ghate men aa jaoge,2,neutral,0,negative,orig_conflict
+1015,1013,strokes sat oordhvadhar rekhaon ke pichhe ek machhli ka fish-like sign,2,neutral,1,neutral,
+824,822,ab in agreements ko amal men lane par dhyan dena hoga.,2,neutral,2,positive,orig_conflict
+2633,2613,unhonne enaaeeephem ko is siddhant ko chunne ke lie badhaee motto thi.,2,neutral,1,neutral,
+1664,1657,sarkon ke vikas ke pahle un days river ke road hi transport ke principal communication the.,2,neutral,1,neutral,
+2544,2526,atlas ke texture ko image file men badal kar dump karen,2,neutral,0,negative,orig_conflict
+1278,1274,iske lie main qualification hai :,2,neutral,1,neutral,
+767,765,aur pratyek rebel satan se surakshit rakhne ke lie,2,neutral,0,negative,orig_conflict
+2241,2225,"anshta krmit set , set ke elements ke sequencing tatha prbndhan ka ek intuitive siddhant hota hai.",2,neutral,1,neutral,
+1796,1788,raz magicians ne kaha  ae moses  ya to tum hi  apne first  phenko aur ya ye ki pahle jo first phenke vah ham hi hon,2,neutral,1,neutral,
+320,319,kya  -- driver generic-mmc-raw  ka pryog cdrdao ke sath karna hai,2,neutral,1,neutral,
+2111,2098,deposit hundi new logon ko vitrit kar do.,2,neutral,2,positive,orig_conflict
+1657,1650,shri duni chnd ko apna legal adviser niyukt karne par vah sahamat ho gaye.,2,neutral,2,positive,orig_conflict
+796,794,ismen servants nahin ki signs  hamari udarat ki  bahut si nishaniyan hain aur hamko to bas unka imtihan lena mnzoor tha,2,neutral,1,neutral,negation
+1561,1555,us din tak ke lie jiska samay jnjat evn niyat day,2,neutral,2,positive,orig_conflict
+833,831,0 save to file nahin kar sakta hai,2,neutral,0,negative,negation;orig_conflict
+2523,2505,"yadi ise adhyapkon ke training is made ang man liya jae, to ham bachchon ko sharirik, mental and emotional aavashkaytaon ki poorti ke lie, adhyapkon ko ek naya aur moolyvan sadhan de paenge.",2,neutral,2,positive,orig_conflict
+2536,2518,suchrita ne dharake se shut the kitchen band kar diya aur pharsh par baith gee.,2,neutral,0,negative,orig_conflict
+2364,2347,bharvi karib karib kalidas ke contemporary the,2,neutral,1,neutral,
+185,185,selected bookmark ko ne tab men open,2,neutral,1,neutral,
+1084,1081,air ek ball phenk aur ise hava men oopar jana ja raha hai.,2,neutral,1,neutral,
+1817,1809,ek great gurudwara gret nicobar ke campbell be men hai,2,neutral,2,positive,orig_conflict
+994,992,"chaynit audio device saphaltapoorvak khola gaya lekin is device se data pana impossible hai  us case men yadi yah ek pluggable device hai yah sufficient hoga ise phir kanekt karna  yadi nahin , ya yadi yah abhi bhi pahunch yogy nahin hai , kripya apna audio setup janchen",2,neutral,0,negative,negation;orig_conflict
+14,14,"ends ke uddeshyon ki disposal se koson pendency , unka anirnay ya merits ke aadhar par niptan sunishchit roop se ends ke uddeshyon ko viphal kar dega",2,neutral,2,positive,orig_conflict
+2175,2161,athva thought ek silent perception ke truth men nahin balki ek aesi speech ke truth men prakat ho sakta hai jo saty men se svaymev janm leti hai aur apne nij right ke bal par hi complete hoti hai aur apna vision aur knowledge apne hi andar dharan kiye hoti hai.,2,neutral,2,positive,negation;orig_conflict
+230,229,kya image gallery pane badalne yogy hona chahie,2,neutral,1,neutral,
+1285,1281,ve most gamin ke time men verandah men aur winter men subah ki sun men bare summer baithe mil jaenge.,2,neutral,1,neutral,
+958,956,matdan-poorv phase  voters ka registration  tatha,2,neutral,1,neutral,
+1918,1909,"to i 29 milta hai , yadi 2 jorta hoon to 30,3 jorta hoon to 31",2,neutral,1,neutral,
+591,589,uske dvara story legendary first book justice ki raksha karne vale vikramaditya ki lok-ktha par aadharit battis sinhasan thi.,2,neutral,2,positive,orig_conflict
+2176,2162,bahri dikhave men organs ek jaise dikhen aur ek hi similar ka function kar rahe hon.,2,neutral,1,neutral,
+2711,2690,vishisht gallery passes for gallery jari karen.,2,neutral,2,positive,orig_conflict
+1723,1716,"jab aap garbhavastha men hain, aap apni aur bachche ki kis prkar se dekhbhal kar sakti hain, is bare aap ki midvaeef ya aapke doctor should give dena chahiye.",2,neutral,2,positive,orig_conflict
+2165,2152,ve १८९५ men higher studies prapt karne ke lie inglaind geen aur paaee ke wrote poetry bhi likhti rahin.,2,neutral,1,neutral,
+557,555,mumbai average annual tapman evn varshan praisipiteshan ki sarni,2,neutral,1,neutral,
+202,201,new channel ke vimochan ki date tay karne ke lie meeting bulaee gee.,2,neutral,1,neutral,
+2626,2606,bina discrimination ke sikhane vale apne habit ke karan ardhendu mustphi apne fellow men lokapriy the.,2,neutral,1,neutral,negation
+900,898,sooryast ke samay shnghaee ka puksi region ab tak sun apne horizon ke niche tak nahin smog hai balki yah dhundh  dense  ki rekha tak pahunch gaya hai,2,neutral,0,negative,negation;orig_conflict
+1317,1313,netaji ko irish free state ke president eamon di velera ka congratulations sndesh bhi mila,2,neutral,2,positive,orig_conflict
+2595,2575,drainage ki basin land ke ant men hoti extent,2,neutral,1,neutral,
+147,147,ye vazee v clear book ki aayten hai,2,neutral,2,positive,orig_conflict
+1655,1648,ismen to sha hi nahin ki sare aasman v zamin ki hukoomat uda hi ke lie as hai vahi jise chahe jilata hai aur jise chahe marta hai aur tum logon ka uda ke siva n koee saraparast hai n madadgar,2,neutral,0,negative,negation;orig_conflict
+1992,1982,aur aesa karte hue needs short society aur country ki long strength ko dhyan men rakhna hai balki alpkalik jaroorton ko bhi dekhna hai jinki andekhi nahin ki ja sakti.,2,neutral,2,positive,negation;orig_conflict
+1752,1745,"anuchchhed 134 ke adhin uchchatam nyayalay men apil ke lie prmanapatr dene ki jo shakti uchch nyayalay ko prapt hai, usse kahin adhik vyapak uchchatam nyayalay ki ye shaktiyan apil ki grant special leave ke bare men hain",2,neutral,2,positive,orig_conflict
+1401,1396,concert ke kisi something par hns rahi hon.,2,neutral,2,positive,orig_conflict
+357,356,aur nishchay hi tumhare lie chaupayon men bhi ek shiksha hai. unke peton men jo kuchh hai usmen se ham tumhen pilate hai. au tumhare lie unmen bahut-se fayde hai aur unhen tum khate bhi ho,2,neutral,2,positive,orig_conflict
+1399,1394,"pratyek vertex ek label hai , aur in label following property hona aavashyak hai.",2,neutral,1,neutral,
+1639,1633,"memo information dene men unable , yah memo maujood nahin hai",2,neutral,1,neutral,negation
+1987,1977,snskrit ke grammar ko vagish shastri ne scientific nature prdan kiya hai.,2,neutral,1,neutral,
+973,971,"aur ham eks ke derivative sin hai, kyonki ham learned",2,neutral,0,negative,orig_conflict
+127,127,ek hydrological unit ke lie jal snsadhan development and management ki yojna banani hogi.,2,neutral,1,neutral,
+1121,1118,delivering important speeches ve in donon ko udghrit karna nahin bhoolte the.,2,neutral,2,positive,negation;orig_conflict
+1149,1145,to kya ye log hamare seek to hasten kar rahe hain,2,neutral,1,neutral,
+1531,1525,"bina parikshan kie ve apne rulers , darbariyon , samnton tatha men ko iske low ki svikriti kaise high sakte hain.",2,neutral,0,negative,negation;orig_conflict
+1742,1735,svyn chndrshekhar is sndarbh men anishchit hai ki use kya karna chahie.,2,neutral,0,negative,orig_conflict
+2291,2275,pratham guru chunakkra achyut variyar aur shnkar variyar rahe.,2,neutral,1,neutral,
+1007,1005,"yah bahut thik hai ki jo makasad hamen pyara hai, usko poora karne ke lie ham apni poori takat laga den.",2,neutral,2,positive,orig_conflict
+1119,1116,ham 4 ko ek row dete hai aur 8 ko ek row dete hain,2,neutral,1,neutral,
+2344,2327,samanyta ek vastu ke do parts ya upakarnon ki pairs kelie is term ka pryog kiya jata hai.,2,neutral,1,neutral,
+204,203,1988 me skool ke ek haris sheild match ke dauran sathi ballebaj vinod kanbli ke sath sachin ne aetihasik 664 rano ki avijit sajhedari ki.,2,neutral,1,neutral,
+1904,1895,ones immediate aim communicable diseases ka unmoolan tatha gair-snchari diseases par niyntran hona chahie.,2,neutral,1,neutral,negation
+553,551,history men koee any items nahin,2,neutral,0,negative,negation;orig_conflict
+806,804,matdan-poorv phase matdataon ka rajistrikaran tatha,2,neutral,1,neutral,
+1346,1342,use documents ko signature dvara adhiprmanit karne ki aavashyakta thi.,2,neutral,1,neutral,
+1251,1247,vah states : india men itni zyada riyasten hain ki ve yahan ki taraki ke raste men ek bahut bari conundrum hain,2,neutral,0,negative,orig_conflict
+2050,2038,"president of india kal homiyopaithi par ek international convention ka udghatan karenge., president bhavan : 08042016",2,neutral,1,neutral,
+1659,1652,vartman men snpoorn chini snyntron ke vinirman ke lie sngthit kshetr men 2 ikaiyan hain aur prti varsh lagabhag 200 karor ki snsthapit kshamta vale purje hain.,2,neutral,1,neutral,
+904,902,"vice ke last conference men , hamne number decisions lie.",2,neutral,2,positive,orig_conflict
+132,132,other alava ganesh chaturthi aur janmashtmi kuchh adhik dhoom-dham ke sng janmashtmi jate hain.,2,neutral,2,positive,orig_conflict
+2053,2041,"product lagta product inventory, raw materials, manufacturing equipment",2,neutral,1,neutral,
+893,891,ewes 3 se 70 lasts tak heat men rahti haingarmi ki average period 27 lasts hoti hai,2,neutral,1,neutral,
+821,819,"unhonne kaha  main aapse dobara aagrah karta hoon ki aapke samne jo aaya hai, aapne is kaksh men jo suna hai aur jo abhiyukt ke lekhon men paa hai, sirph isi aadhar par abhiyukt par phaisla den",2,neutral,0,negative,orig_conflict
+1195,1191,"scientists , organism se dna ka sample lekar tatha ise kramabaddh karke genes ka vishleshan karte hain",2,neutral,1,neutral,
+786,784,i bhi ek time i anjan tha,2,neutral,2,positive,orig_conflict
+2687,2666,skydome fallback bottom ke talavarti color stop ke lie pryog ka color,2,neutral,0,negative,orig_conflict
+1762,1755,pains  ambedkar ne bahut parishram se yah batane ka pryas kiya tha ki new republic states ke  parisngh  ke bajay states ka  union  hoga. states ko alag hone ka right nahin hoga.,2,neutral,0,negative,negation;orig_conflict
+528,526,india ke niyntrak-mhalekhaprikshak ke bare men provisions,2,neutral,1,neutral,
+1260,1256,computing yatharth men physical world ke sath mil jaegi.,2,neutral,1,neutral,
+1056,1053,ab in agreements ko implementation men lane par focus dena hoga.,2,neutral,2,positive,orig_conflict
+1785,1777,dynamic klam headers ke roop men pryog ke lie row set karen jab calc sel bola ja raha ho,2,neutral,2,positive,orig_conflict
+210,209,ab us rand ka face don dekhna.,2,neutral,0,negative,orig_conflict
+1819,1811,"unke called dramas men, percentage of poetry mukhy hai, unmen sngit bhi shamil hai.",2,neutral,2,positive,orig_conflict
+1545,1539,"ek aur play mhoba sangram  bhi vrindavanlal mahoba ne likha , jismen desh ki independence ke lie sashastr struggle ki mahatta dikhayi thi.",2,neutral,2,positive,orig_conflict
+219,218,sound aavaj aur sound events change,2,neutral,1,neutral,
+654,652,"usne kaha ,  yah meri staff leaves i isapar tek lagata hoon aur other apni bakriyon ke lie patte uses hoon aur other meri doosri zaroorten bhi poori hoti leaves",2,neutral,2,positive,orig_conflict
+2140,2127,sudden hone vala ek ya more muscle ka involuntary,2,neutral,1,neutral,
+755,753,pran duly sanctioned kiya huaa hai-pushti bhejen.,2,neutral,2,positive,orig_conflict
+1842,1834,mamata ne 1997 men parti se alag hokar trinamool banaee thi tabse parti se congress ke jane ka string jari hai,2,neutral,0,negative,orig_conflict
+191,191,"jo koee virtue shall receive aaya use usse uttam prapt hoga, aur jo bura aacharan lekar aaya to buraiyan karnevalon ko to vas vahi milega jo ve karte the",2,neutral,2,positive,orig_conflict
+761,759,aap ek ya adhik devices select sakte hain,2,neutral,1,neutral,
+2701,2680,"kuchh abhiyogiyon ne, jinhonne raj ke declared open war ki ghoshna ki thi, apne sath political prisoners ki jagah par aam apradhiyon jaisa vyavhar kiye jane ka virodh kiya.",2,neutral,0,negative,orig_conflict
+575,573,fine manure ki layer ka upyog karna,2,neutral,2,positive,orig_conflict
+54,54,"aesi incidents ko bilkul tolerance n karne ki mooly prerit commitment ke roop men , mining industry men reaction ki culture ke bajay prevention ki culture ki aavashyakta hai.",2,neutral,2,positive,orig_conflict
+2128,2115,higher education sector men poore vishv men tivr badlav aa rahe hain.,2,neutral,1,neutral,
+2202,2187,"angrej ki aankhon eyes lit aa gee ,",2,neutral,1,neutral,
+817,815,is address pustika ke lie backend yah prashn karne se mana kiya  s,2,neutral,0,negative,orig_conflict
+1320,1316,sabhi shri mother ki presence men dhyan karte hain.,2,neutral,1,neutral,
+668,666,"kuchh people aese hain jo kahte hain ki ham allah aur antim din par eeman rakhte hain, halanki ve eeman nahin rakhte",2,neutral,1,neutral,negation
+1665,1658,terms geographic kshetraphal ke aadhar par largest ka seventh sabse bara country hai.,2,neutral,1,neutral,
+23,23,"puppet nirdeshkon ke samaksh satire , humour evn whole shakti ka snsar open para hai.",2,neutral,2,positive,orig_conflict
+229,228,un people ka badla yahi hai ki unapar allah aur farishton aur sare condemnation of god hai,2,neutral,2,positive,orig_conflict
+1391,1386,"vah aakashon aur earth ka aur jo kuchh unke bich hai sabka rab hai, atyant kripashil hai, uske samne bat karna unke bas men nahin hoga",2,neutral,2,positive,negation;orig_conflict
+2107,2094,ye kuchh behad creative kar rahe hain something,2,neutral,2,positive,orig_conflict
+481,479,ham aapko is integral jab phir se rewrite karne ke lie chahta hoon,2,neutral,2,positive,orig_conflict
+267,266,"is star par, pakshkaron ke learned counsel ne dhyan dilaya ki decreetal amount tab se is adalat ke maha-rjistrar ke pas jama kar di gee thi jo ki ek savdhi jama rasid men pari huee hai",2,neutral,0,negative,orig_conflict
+1266,1262,strokes sat vertical rekhaon ke pichhe ek machhli ka sign hai.,2,neutral,1,neutral,
+2431,2414,"aur un logon ka pichha karne men susti n dikhao. yadi tumhen none god hai  to unhen bhi none god hai , jis tarah tumko none god success aur tum knowing se us chiz ki aasha karte ho , jis chiz ki ve aasha nahin karte. knowing to chary kuchh jannevala , tatvadarshi hai",2,neutral,2,positive,negation;orig_conflict
+2509,2492,use wind ki aavaj sunaee di aur feet ke niche stones bhi mahsoos hue.,2,neutral,1,neutral,
+1330,1326,"arya samaji updeshkon ko jo happy doosre religions par kichar uchhalne men other hai , vah happy aur kisi bat men nahin aata.",2,neutral,2,positive,negation;orig_conflict
+1025,1022,yah playing poker sare patte khol dene jaisa hai,2,neutral,2,positive,orig_conflict
+1711,1704,information technology ke benefits common man tak keval tabhi access sakte hain jab software tools aur manav-mshin interface prnaliyan logon ki apni language men available hon,2,neutral,2,positive,orig_conflict
+1058,1055,fertilization rahit reproduction ka ek type,2,neutral,1,neutral,
+1414,1409,pirates ke caribbean : murde ka man,2,neutral,0,negative,orig_conflict
+1373,1368,ones loved valon ke representation ko living karne men-,2,neutral,2,positive,orig_conflict
+790,788,"is expression, yah derivative y ka hai.",2,neutral,1,neutral,
+1137,788,"is expression , yah derivative y ka hai.",2,neutral,1,neutral,
+547,545,image format diflt RGB,2,neutral,1,neutral,short_context
+590,588,folder properties pane men viphla s,2,neutral,0,negative,orig_conflict
+2514,588,folder properties pane men viphla  s,2,neutral,0,negative,orig_conflict
+1333,1329,indians jan-manas ke samaksh gandhiji dvara pradurbhoot ideals aur lessons ka meaning only desh-bhakti tha.,2,neutral,2,positive,orig_conflict
+688,686,patient ki janch men prtihari shira ke soojan ka pata chala,2,neutral,1,neutral,
+531,529,d anbedakar ne bahut parishram se yah batane ka pryas kiya tha ki naya gantntr federation ke prisnghke bajay federation ka sngh hoga. federation ko alag hone ka adhikar nahin hoga.,2,neutral,0,negative,negation;orig_conflict
+1501,1495,flow of thought ka flow nikal thought,2,neutral,1,neutral,
+46,46,to 1 times 5 barabar hai 5ke,2,neutral,1,neutral,
+1516,1510,"shimla, rail, road or air marg se reached ja sakta hai.",2,neutral,2,positive,orig_conflict
+2185,2171,file se hai read edit,2,neutral,1,neutral,
+800,798,apne look men vitamins evn minerals ke prti sajag rahen,2,neutral,1,neutral,
+1431,1426,"agar tum hamen katte ho, to kya hamara khoon nahin bahta,",2,neutral,0,negative,negation;orig_conflict
+1843,1835,aur evil best ke javab men aesi best kaho jo nihayat achchhi ho jo kuchh ye log  tumhari nisbat  bayan karte hain usse ham oob vaiph hain,2,neutral,2,positive,orig_conflict
+1231,1227,tum mere lie ek bitals ka song ga sakte ho kya,2,neutral,1,neutral,
+353,352,theme  s thik se gnome hai,2,neutral,1,neutral,
+1739,1732,stomach has blown phool jata hai.,2,neutral,1,neutral,
+678,676,number of columns jo spans tak phaila hai,2,neutral,2,positive,orig_conflict
+2674,2654,"fact , reddit pe kisi nen thought ,",2,neutral,1,neutral,
+2511,2494,"yadypi prastav sadan ki vibhinn karyvahiyon se snbndhit hote hain tathapi unhen tin prmukh shreniyon men rakha ja sakta hai, arthat mool sabstentiv prastav, sthanapann sabastityoot prastav aur sahayak sabsidiyri prastav",2,neutral,1,neutral,
+1073,1070,is jati ke pakshi food ki search men door door tak ghoomte hain,2,neutral,1,neutral,
+379,378,is period ka only communication upadan factor tha jo mauryan period men prarnbh kiya gaya tha kyonki stable government ne empire ke various bhagon men sncharan sunishchit kiya tha tatha active internal factor ko protsahit kiya tha.,2,neutral,2,positive,orig_conflict
+516,514,"da aanbedakar ne saph saph sachet kiya, apne liberation ke lie aapko struggle karna hoga.",2,neutral,0,negative,orig_conflict
+2279,2263,"body ke s prishth ३९ par hain  kee sthanon par parking sthan , visheshakar , un karon ke liye rizarv rakhe gaye hain jo apne zones par orange badge ka pragarshan karte hain , aur aap simit samay ke liye un sthanon par bhi rook sakte hain , praya jahan park karne ki anumti nahin hain.",2,neutral,1,neutral,negation
+53,53,CMS attach data snlagn nahin kar sakta hai,2,neutral,1,neutral,negation
+373,372,un dino agar ek aur great great bhoobhago par raj karne vale aur unke adhin sanmti karne vale aese minor minor chieftains sardar bhi the jo limited bhoobhago ka rulers kiya karte tributes,2,neutral,2,positive,orig_conflict
+2652,2632,hyderabad raksha-kanoonon jo rule raksha-kanoonon ke jaise hi hai ki dhara-58 1 ke paragraph powers dvara unmen nijam men nihit sattaon ka amal karke yah aadesh diya jata hai ki koee bhi person kisi bhi public defence men vidhivat kisi foreign ke exercise ko n to phahrayega aur n use salute dega.,2,neutral,2,positive,orig_conflict
+2274,2258,banking system ki is mazbooti ne ke bahar se investment ko bhi bahut attracted kiya hai.,2,neutral,2,positive,orig_conflict
+1504,1498,aur un par flocks ki flocks birds send din,2,neutral,1,neutral,
+669,667,aur ibrahim bhi usi ke sahadharmiyon men se tha.,2,neutral,2,positive,orig_conflict
+1975,1965,cell ke center men pnkti baddh honge,2,neutral,1,neutral,
+1340,1336,is kshetr ke main plateaus baghelkhnd tatha chhota nagpur hain.,2,neutral,1,neutral,
+1205,1201,do consecutive amount of space ki doori,2,neutral,1,neutral,
+1572,1566,"char dashkon se adhik, gurabakhsh sinh punjabi journalism par aachchhadit rahe.",2,neutral,1,neutral,
+1028,1025,jesus ke janm ke time nirkunsh raja hairod ka rule tha jisme prja ki condition shochniy thi.,2,neutral,0,negative,orig_conflict
+1316,1312,kuchh establishments apni accounts books khule ledgers ki system ke aadhar par rakhte hain.,2,neutral,0,negative,orig_conflict
+1582,1576,vishisht darshak glri ke s issue karen.,2,neutral,2,positive,orig_conflict
+2594,2574,kalpna ji fly into space vali pratham bharat woman to fly thin aur antriksh men urane vali bhartiy mool ki doosri vyakti thin.,2,neutral,1,neutral,
+2089,2076,type niymit phail nahin hai,2,neutral,1,neutral,negation
+423,422,aap ise store nahi kar sakte.,2,neutral,1,neutral,negation
+209,208,article 90 men rajya sabha ke exists ke lie similar hi provision he,2,neutral,1,neutral,
+1241,1237,koee service provide karne ke lie niji residences par jane vala.,2,neutral,1,neutral,
+612,610,ismen vah ki command do jiske hone par key du shuroo ho jaye.,2,neutral,2,positive,orig_conflict
+2010,1999,svyn chandrashekhar is sndarbh men anishchit hai ki use kya karna chahie.,2,neutral,0,negative,orig_conflict
+1188,1184,language model adapts karta hai jaise aap write hain,2,neutral,1,neutral,
+349,348,philosophy hamari enemy hai. yah darshan hai,2,neutral,0,negative,orig_conflict
+352,351,munbee men historical structures jahan rajypal nivas karte the.,2,neutral,1,neutral,
+938,936,dayen-se-bayen order ka upyog broken words ko pas-pas lane ke liya kiya left hai.,2,neutral,0,negative,orig_conflict
+414,413,"military action itni chhitri huee aur chhutput thi ki hamari janta , jinka n koee neta tha aur n hi jiske pas door-draj ke ilakon tak snchar ke koee sadhan the , shayad spasht roop se yah janti tak nahin thi ki unke desh ko ya ho raha",2,neutral,2,positive,negation;orig_conflict
+2522,2504,ativishisht vyaktiyon vi aaee pi ke istemal ke lie home ministry ko north kshetr hetu helikptar upalabdh karaya gaya hai.,2,neutral,2,positive,orig_conflict
+294,293,hindi ke bare men great personalities ke vachan,2,neutral,2,positive,orig_conflict
+798,796,column  stnbh ko startup par disk show dikhaen,2,neutral,1,neutral,
+2635,2615,is prkar is vital sector men inadequate se action karne ki necessity par koee dhyan nahin diya gaya,2,neutral,2,positive,negation;orig_conflict
+2498,2481,urine men uric presence me upalabdh excess matra.,2,neutral,1,neutral,
+2374,2357,kya tum bat   ba  ko pukarte ho aur best creator ko chhor dete ho,2,neutral,2,positive,orig_conflict
+261,260,air dispersion modeling aur rupantaran farmule chhah se ek lekh samarpit karne ke lie technical quality aur vayu prdooshan ke air dispersion modeling,2,neutral,2,positive,orig_conflict
+297,296,ve svikar karte hain ki ve ek doosre par sidhe see other hai.,2,neutral,2,positive,orig_conflict
+1570,1564,ismen bhartiy defence ministry ke officials ne bhag liya.,2,neutral,2,positive,orig_conflict
+314,313,platform update ke sath Windows 7Windows Vista ke lie video output,2,neutral,1,neutral,
+1646,313,platform update ke sath Windows 7Windows vista ke lie video output,2,neutral,1,neutral,
+304,303,ru 750 tak ki rin ke lie: 10 years,2,neutral,1,neutral,
+1095,1092,"se hamari batchit 20th vin century men shuroo huee ,",2,neutral,1,neutral,
+1486,1481,is large number tatha hamare aaspas aese bahut se vayovriddh hain jo ki hamare desh tatha samaj ke lie bahumooly sahyog prdan kar rahe hain.,2,neutral,2,positive,orig_conflict
+957,955,widen our horizon ka vistar karne aur vyapar snchar ke lie international languages padhni hi chahie.,2,neutral,1,neutral,
+787,785,to jo log unke siva aur ke astgar hon to yahi log transgressor se ba jane vale hain,2,neutral,1,neutral,
+2422,2405,"rest house ka arth us building se hota hai , jiska pryog travelers dvara shelter ke lie kiya jata hai.",2,neutral,1,neutral,
+2104,2091,dekho !  s usne kaha .,2,neutral,1,neutral,
+1432,1427,"in gatividhiyon ko chalane ke lie environment protection act , 1986 ke antargat following rules adhisoochit kie biomedical hain : 1 hazardous chemicals ka manufacture , storage tatha import rules , 1989:2 hazardous waste padarth management tatha handling niyam-1989:3 hazardous sookshm jivaanuvanshiki injiniyri jany organisms athva cell ka manufacture , use , export evn import tatha storage rules 1989 : aur 4 jaiv-chikitsa waste rules , 1998.",2,neutral,0,negative,orig_conflict
+2265,2249,ek person jo doosron ko service prdan karta hai.,2,neutral,1,neutral,
+1337,1333,1 se 127 tak dhundhla ki degree,2,neutral,1,neutral,
+1944,1935,"distance formula hai, jo vastav men sirph hai ka extension hai",2,neutral,1,neutral,
+2018,1935,"distance formula hai , jo vastav men sirph hai ka extension hai",2,neutral,1,neutral,
+17,17,hamne tumhen paida kiya phir tum sach kyon nahin mante,2,neutral,2,positive,negation;orig_conflict
+1019,17,hamne tumhen paida kiya  phir tum sach kyon nahin mante,2,neutral,2,positive,negation;orig_conflict
+1885,1876,pahle approach the trader karna budghimani hogi .,2,neutral,1,neutral,
+830,828,unhonne yah wanted bhi vyakt ki ki ek democratic society men unke sath samanta ka vyavhar ho.,2,neutral,1,neutral,
+305,304,"uttra twenty-eight 28, 1171",2,neutral,1,neutral,short_context
+1999,1988,"kh snsad ke pratyek sadan ya kisi rajy ke vidhan-mndal ke sadan ya pratyek sadan ke lie koee nirvachan aesi nirvachan arji par hi called in question, jo aese pradhikari ko aur aesi riti se prastut ki gee hai jiska samuchit vidhan-mndal dvara banaee gee vidhi dvara ya uske adhin upbndh kiya jae, anytha nahin.",2,neutral,0,negative,negation;orig_conflict
+1075,1072,"reading, meanings prapt karne ke uddeshy se process of decoding ki ek complex cognitive process hai.",2,neutral,1,neutral,
+2396,2379,isi se uska called padmpad pad gaya.,2,neutral,1,neutral,
+2418,2401,usne to bengal ko jit liya tha n,2,neutral,1,neutral,
+2026,2014,actor ka allocation par nazar rakhne ke lie clip region ko sets karen,2,neutral,1,neutral,
+841,839,ata tum obey the deniers n manna,2,neutral,2,positive,orig_conflict
+1194,1190,"to mera question hai, ki yadi ye europe men kiya ja sakta hai,",2,neutral,1,neutral,
+2568,1190,"to mera question hai , ki yadi ye europe men kiya ja sakta hai ,",2,neutral,1,neutral,
+487,485,"nikatatam parosi-prakshep, ek kalan vidhi elgorithm hoti hai, jo skrin ke piksel ko prtichitran par bindu ke anuroop prtichitrtit karti hai.",2,neutral,1,neutral,
+80,80,ii  tuensang affairs minister tuensang district se snbndhit sabhi matters ki babat affairs karega aur unke snbndh men governor ke pas uski direct access hogi kintu vah unke snbndh men mukhymntri ko jankari deta rahega,2,neutral,1,neutral,
+2684,2663,"aur taki ve log jinhen jnjan mila hai, jan len ki yah tumhare rab ki or se saty hai. ata ve isapar eeman laen aur uske samne unke hearts be humble aur nishchay hi allah eeman lanevalon ko avashy sidha marg dikhata hai",2,neutral,2,positive,orig_conflict
+263,262,isse pahle ki boy kuchh javab deta ek titli un donon ke bich aakar apne par pharapharane lagi.,2,neutral,1,neutral,
+508,506,"yuniseph aur presvaij trening 31 midiya aur snyukt rashtr bal samjhauta parishisht 1 snyukt rashtr bal adhikar samjhaute ka patrkaron ke lie saransh prastvana men snyukt rashtr ke buniyadi siddhanton-visheshakar shanti, garima, sahanshilta, svtntrta, samanta aur ekjutta ki bhavna-aur manav adhikar ki upyukt sndhiyon or ghoshnaon ke vishisht pravdhanon ki yad dilaee gee hai.",2,neutral,2,positive,orig_conflict
+2209,2194,hamare aur god bich aware hi ek witness sufficient hai. hamen to tumhari bandgi ki bar tak n thi.,2,neutral,2,positive,orig_conflict
+390,389,ae rasool  kya tumne un logon ke hal par nazar nahin ki jo aap bare pure bante hain  magar usse kya hota hai  balki uda jise chahta hai pure banata hai aur zulm to kisi par dhage ke barabar ho hi style nahin,2,neutral,2,positive,negation;orig_conflict
+1261,1257,truth ismen bhi udarat uda ki ek bari nishani hai magar unmen se aksar eeman lane vale hi nahin,2,neutral,0,negative,negation;orig_conflict
+2301,2285,hindi language ke samachar papers,2,neutral,1,neutral,
+1398,1393,yadi 20 gram magaj ek kap lukewarm water men avshoshit kiya jaye to brown coloured colour vain ka rng ka halka sungdhit pey taiyar ho jayega.,2,neutral,1,neutral,
+926,924,union governed bhoo-bhagon ko territories land kaha jata parts,2,neutral,1,neutral,
+2100,2087,"kaise rel , stimar ke bare men 1850 ke dashak men railroad ,",2,neutral,1,neutral,
+719,717,main apne prdata nahin dhoon sakta find aur main ise dasti roop se dakhil karna chahta find m:,2,neutral,2,positive,negation;orig_conflict
+2235,2219,iski tip toothed and sharply huk vali hoti hai,2,neutral,1,neutral,
+2660,2640,finance bill 29 march 2000 ko prkashit kiya gaya tha.,2,neutral,1,neutral,
+959,957,jab avaidh tarikon se legal act ki gayi hai tab yah adhiniyam aavashyak hai,2,neutral,0,negative,orig_conflict
+966,964,"welding lagana ki kyon , computers kyon nahin",2,neutral,1,neutral,negation
+2073,964,"welding lagana ki kyon, computers kyon nahin",2,neutral,1,neutral,negation
+1254,1250,bacha time jab action ki jati hai,2,neutral,1,neutral,
+560,558,"tathapi , preferred vyathavsayiyon ke global wage bill tatha vaishvik financial meltdown professionals sorsing vyapavsay processes ke lie ek variy gntavyav sthail ke roop men india ki position ko chunauti de rahi hai.",2,neutral,2,positive,orig_conflict
+1691,1684,jinse years dinon se bat nahin huee heard,2,neutral,1,neutral,negation
+2006,1995,computer graphics and animated figures ke sath poori film aay,2,neutral,1,neutral,
+313,312,"han, yadi donon men se koee bhi ek paksh sunvaee ka sthagan chahta hai to unhen sthagan reasons for seeking ko batate hue ekschenj ke pas agrim roop se ek make an application jisse ki ekschenj aese anurodh ko aarbitretar ko bhej sake.",2,neutral,2,positive,orig_conflict
+510,508,kisi vastu dvara produce bhibhinahat ki krmik sound,2,neutral,1,neutral,
+1814,1806,phir good deeds bhari hue t vahi hain jo good,3,weakly_positive,2,positive,uncertain
+2476,2459,ye tumhare lord ki taraph se kafi reward aur sila hai,3,weakly_positive,2,positive,
+1227,1223,isliye vah process hamare yoga ke liye sufficient nahin  kisi aur sadhan ki bhi aavashyakta hai jo adhik sarvagrahi roop men positive ho.,3,weakly_positive,2,positive,negation
+1931,1922,deeds ve log hai present striving sansarik life men akarath gaya aur ve yahi samajhte hai ki ve bahut good karm kar rahe hai,3,weakly_positive,2,positive,
+854,852,"ata inkar karnevalon ki bat n manta aur is uraan ke dvara unse jihad karo, bara jihad! ji tor koshish",3,weakly_positive,1,neutral,orig_conflict
+1067,1064,gat varsh jarmni ne ichchha prakat ki ki information technology ke vast skilled manpower bhartiyon ki prtibha ka labh jarmni uthana chahta hai.,3,weakly_positive,2,positive,
+292,291,"dar ji ne hamari mitrta ko pallvit-pushpit hone diya, parantu inko kaha ki tum bhi apne gharvalon se is snbndh men sahamti le lo, taki bad men koee kathinaee n ho.",3,weakly_positive,2,positive,mixed;uncertain
+2653,2633,shgs sahayta samooh ke lie special schemes aur women ko sashakt banana,3,weakly_positive,2,positive,
+554,552,joseph henri ki madad se first problem to hal ho gayi.,3,weakly_positive,0,negative,mixed;orig_conflict;uncertain
+1629,1623,invalid tin dss vali gadi dhshsh ne sahayta ke lie three-wheeler ho,3,weakly_positive,1,neutral,orig_conflict
+542,540,india aur south aphrika ke share snbndhon ki jaren history aur friendship moolyon men sthapit hain,3,weakly_positive,2,positive,
+1324,1320,apni vibhinn schemes and financial sahyog se tatha utpadkon dvara kachche mal ki niymit kharidari men sahayta dekar aur avsnrachna snbndhi sahyog dekar bharat sarkar ne existing coir industry ko baava dene ke lie tatha ne udymiyon ko protsahit karne ke lie mahattvpoorn sahyog diya hai.,3,weakly_positive,2,positive,
+2455,2438,unhonne wasn kiya ki vahan enough progress nahin thi,3,weakly_positive,2,positive,negation
+1716,1709,keval idea to focus par hi sara good kendrit kar dena koee good idea nahin hai,3,weakly_positive,2,positive,negation;uncertain
+150,150,ki jo chiz pasand karoge tum ko vahan zaroor milegi,3,weakly_positive,2,positive,
+627,625,"jahan tak landlords ka class tha , jo kee many men Zkisan aur link ke bich snbndh banaye huye the  ek varg ke roop men unhone apne tenants ki sahayta ya protsahan ke lie finger tak nahin hilaee",3,weakly_positive,2,positive,negation;uncertain
+1237,1233,"day life men embedded sistam evn mahatvpoorn area men trained manav snsadhan ki bati need ko dhyan men growth kar si-daik ne computers , electronics aur aaiti engineers ke lie embedded sistam dijain men diploma   pathyakram ki shurooaat ki hai.",3,weakly_positive,2,positive,
+488,486,basava ke pashchat various shaiva good men kaphi mishran huaa hai.,3,weakly_positive,2,positive,
+697,695,to fact hai ki jab ham bahar x ki hota yah pata lagane ki koshish ki,3,weakly_positive,1,neutral,orig_conflict
+2430,2413,aur  serve  aume samood ke pas unke brother saleh ko  paimbar banakar bheja  to unhonne  apni people se  kaha h meri people uda hi ki parastish god uske siva koee tumhara mabood nahin usi ne tumko zamin  ki earth  se paida kiya aur tumko usmen basaya to usse maphirat ki lord mgon phir uski bargah men repentance god  responsive mera paravardigar  har shash ke  rib aur sabki sunta aur lord ubool karta hai,4,strongly_positive,2,positive,negation
+1297,1293,oopri tal ke har men karnkooton ki anupasthit svny har ke vilopan aur uske sthan par konon par mukhy devta ke vahnon aur lanchhnon ke sthapan ki disha men pahla kadam hain.,4,strongly_positive,2,positive,
+399,398,aur ham ahle saba aur sham ki un bastiyon ke darmiyan jinmen hamne barakat ata ki thi aur chand bastiyan sre rah aabad ki thi jo baham numaya thin aur hamne unmen aamad v rapht ki rah murrar ki thi ki unmen raton ko dinon ko jab ji chahe bekhatke chalo phiro,4,strongly_positive,2,positive,
+1654,1647,"nakad rupye, silver and gold ke aabhooshan, coconuts, phal, phool devta ko bhent men chaaye jate hain.",4,strongly_positive,1,neutral,orig_conflict
+908,906,supporting actor aur rekha ke viprit inki sahayak bhoomika men inhen behad saraha gaya aur inhen sarvashreshth sahayak kalakar ka philmpheyar puraskar diya gaya.,4,strongly_positive,2,positive,
+2205,2190,"aur able yah wall to yah do orphans young ki hai jo is town men rahte lord aur iske niche unka treasure righteous lord aur unka father theirs tha , islie mercy rab ne chaha ki ve apni yuvavastha ko pahunch lay aur apna treasure nikal len. yah mercy rab ki dayaluta ke karan huaa. mainne to apne adhikar se kuchh nahin kiya. yah hai vastvikta uski jisapar man dhairy n rakh sake.",4,strongly_positive,2,positive,negation
+1959,1949,tumhara paravardigar tumhare hal se khoob vaiph hai earth better lord par raham people aur earth better lord par azab people aur  ae heavens  hamne tumko kuchh un logon ka zimmedar banakar nahin bheja hai,4,strongly_positive,2,positive,mixed;negation
+1442,1437,"sthan mukhiya, malik bhago gurooji ko apne dvara sushebhit ki huee shandar avat men bhojan grahan karne ke lie kahta hai.",4,strongly_positive,2,positive,
+2139,2126,"shram aur rojgar mntralay, bharat sarkar ne khanon men suraksha mankon ki behatri tatha rashtriy star par outstanding safety performance ko give due recognition ke lie khan snchalkon men prtispardha ki bhavna ko baava dene ke lie prtiyogita varsh ke lie 1983 men national safety awards khan aarambh kie the.",4,strongly_positive,2,positive,
+609,607,believers men women aur momina aurton ko  behisht  ke baon men ja pahunchae jinke niche rivers jari hain aur ye vahan hamesha triumph aur unke gunahon ko unse door kar evils aur ye uda ke nazdik bari kamyabi hai,4,strongly_positive,2,positive,
+2336,2319,aur hamne aasman se barakat vala pani wherewith we caused ba ke darakht ugae aur kheti ka anaj aur lambi lambi khajooren,4,strongly_positive,2,positive,

@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Model checkpoints & heavy files
+models/*/best/*.pt
+models/*/best/*.safetensors
+models/*/best/*.bin
+runs/
+
+# Data caches & temporary outputs
+.cache/
+data/cache/
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env

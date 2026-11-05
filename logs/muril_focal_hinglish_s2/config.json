@@ -1,0 +1,16 @@
+{
+  "run_id": "muril_focal_hinglish_s2",
+  "config_id": "C3",
+  "model_key": "muril",
+  "hub_identifier": "google/muril-base-cased",
+  "loss_type": "focal",
+  "text_type": "hinglish",
+  "seed": 2,
+  "gamma": 2.0,
+  "epochs": 4,
+  "batch_size": 16,
+  "learning_rate": 3e-05,
+  "weight_decay": 0.01,
+  "is_smoke_test": true,
+  "start_time": "2026-10-15T16:23:21Z"
+}

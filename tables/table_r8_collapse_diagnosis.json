@@ -1,0 +1,436 @@
+{
+  "strict_collapses": [
+    [
+      "hingroberta_ce_english_s1",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_ce_english_s1",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_ce_english_s1",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_ce_english_s1",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_ce_english_s2",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_ce_english_s2",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_ce_english_s2",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_ce_english_s2",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_ce_english_s3",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_ce_english_s3",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_ce_english_s3",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_ce_english_s3",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_ce_hinglish_s1",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_ce_hinglish_s1",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_ce_hinglish_s1",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_ce_hinglish_s1",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_ce_hinglish_s2",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_ce_hinglish_s2",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_ce_hinglish_s2",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_ce_hinglish_s2",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_ce_hinglish_s3",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_ce_hinglish_s3",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_ce_hinglish_s3",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_ce_hinglish_s3",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_focal_english_s1",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_focal_english_s1",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_focal_english_s1",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_focal_english_s1",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_focal_english_s2",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_focal_english_s2",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_focal_english_s2",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_focal_english_s2",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_focal_english_s3",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_focal_english_s3",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_focal_english_s3",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_focal_english_s3",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_focal_hinglish_s1",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_focal_hinglish_s1",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_focal_hinglish_s1",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_focal_hinglish_s1",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_focal_hinglish_s2",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_focal_hinglish_s2",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_focal_hinglish_s2",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_focal_hinglish_s2",
+      "Strongly Positive"
+    ],
+    [
+      "hingroberta_focal_hinglish_s3",
+      "Strongly Negative"
+    ],
+    [
+      "hingroberta_focal_hinglish_s3",
+      "Weakly Negative"
+    ],
+    [
+      "hingroberta_focal_hinglish_s3",
+      "Weakly Positive"
+    ],
+    [
+      "hingroberta_focal_hinglish_s3",
+      "Strongly Positive"
+    ],
+    [
+      "muril_ce_english_s1",
+      "Strongly Negative"
+    ],
+    [
+      "muril_ce_english_s1",
+      "Weakly Negative"
+    ],
+    [
+      "muril_ce_english_s1",
+      "Weakly Positive"
+    ],
+    [
+      "muril_ce_english_s1",
+      "Strongly Positive"
+    ],
+    [
+      "muril_ce_english_s2",
+      "Strongly Negative"
+    ],
+    [
+      "muril_ce_english_s2",
+      "Weakly Negative"
+    ],
+    [
+      "muril_ce_english_s2",
+      "Weakly Positive"
+    ],
+    [
+      "muril_ce_english_s2",
+      "Strongly Positive"
+    ],
+    [
+      "muril_ce_english_s3",
+      "Strongly Negative"
+    ],
+    [
+      "muril_ce_english_s3",
+      "Weakly Negative"
+    ],
+    [
+      "muril_ce_english_s3",
+      "Weakly Positive"
+    ],
+    [
+      "muril_ce_english_s3",
+      "Strongly Positive"
+    ],
+    [
+      "muril_ce_hinglish_s1",
+      "Strongly Negative"
+    ],
+    [
+      "muril_ce_hinglish_s1",
+      "Weakly Negative"
+    ],
+    [
+      "muril_ce_hinglish_s1",
+      "Weakly Positive"
+    ],
+    [
+      "muril_ce_hinglish_s1",
+      "Strongly Positive"
+    ],
+    [
+      "muril_ce_hinglish_s2",
+      "Strongly Negative"
+    ],
+    [
+      "muril_ce_hinglish_s2",
+      "Weakly Negative"
+    ],
+    [
+      "muril_ce_hinglish_s2",
+      "Weakly Positive"
+    ],
+    [
+      "muril_ce_hinglish_s2",
+      "Strongly Positive"
+    ],
+    [
+      "muril_ce_hinglish_s3",
+      "Strongly Negative"
+    ],
+    [
+      "muril_ce_hinglish_s3",
+      "Weakly Negative"
+    ],
+    [
+      "muril_ce_hinglish_s3",
+      "Weakly Positive"
+    ],
+    [
+      "muril_ce_hinglish_s3",
+      "Strongly Positive"
+    ],
+    [
+      "muril_focal_english_s1",
+      "Strongly Negative"
+    ],
+    [
+      "muril_focal_english_s1",
+      "Weakly Negative"
+    ],
+    [
+      "muril_focal_english_s1",
+      "Weakly Positive"
+    ],
+    [
+      "muril_focal_english_s1",
+      "Strongly Positive"
+    ],
+    [
+      "muril_focal_english_s2",
+      "Strongly Negative"
+    ],
+    [
+      "muril_focal_english_s2",
+      "Weakly Negative"
+    ],
+    [
+      "muril_focal_english_s2",
+      "Weakly Positive"
+    ],
+    [
+      "muril_focal_english_s2",
+      "Strongly Positive"
+    ],
+    [
+      "muril_focal_english_s3",
+      "Strongly Negative"
+    ],
+    [
+      "muril_focal_english_s3",
+      "Weakly Negative"
+    ],
+    [
+      "muril_focal_english_s3",
+      "Weakly Positive"
+    ],
+    [
+      "muril_focal_english_s3",
+      "Strongly Positive"
+    ],
+    [
+      "muril_focal_hinglish_s1",
+      "Strongly Negative"
+    ],
+    [
+      "muril_focal_hinglish_s1",
+      "Weakly Negative"
+    ],
+    [
+      "muril_focal_hinglish_s1",
+      "Weakly Positive"
+    ],
+    [
+      "muril_focal_hinglish_s1",
+      "Strongly Positive"
+    ],
+    [
+      "muril_focal_hinglish_s2",
+      "Strongly Negative"
+    ],
+    [
+      "muril_focal_hinglish_s2",
+      "Weakly Negative"
+    ],
+    [
+      "muril_focal_hinglish_s2",
+      "Weakly Positive"
+    ],
+    [
+      "muril_focal_hinglish_s2",
+      "Strongly Positive"
+    ],
+    [
+      "muril_focal_hinglish_s3",
+      "Strongly Negative"
+    ],
+    [
+      "muril_focal_hinglish_s3",
+      "Weakly Negative"
+    ],
+    [
+      "muril_focal_hinglish_s3",
+      "Weakly Positive"
+    ],
+    [
+      "muril_focal_hinglish_s3",
+      "Strongly Positive"
+    ]
+  ],
+  "partial_collapses": [
+    [
+      "hingroberta_wce_hinglish_s1",
+      "Neutral",
+      0.1471,
+      0.1471
+    ],
+    [
+      "hingroberta_wce_hinglish_s2",
+      "Neutral",
+      0.1088,
+      0.1118
+    ],
+    [
+      "hingroberta_wce_hinglish_s3",
+      "Neutral",
+      0.1441,
+      0.1471
+    ],
+    [
+      "muril_wce_hinglish_s1",
+      "Neutral",
+      0.1471,
+      0.1471
+    ],
+    [
+      "muril_wce_hinglish_s2",
+      "Neutral",
+      0.1088,
+      0.1118
+    ],
+    [
+      "muril_wce_hinglish_s3",
+      "Neutral",
+      0.1441,
+      0.1471
+    ]
+  ],
+  "muril_recall_class_0": {
+    "C1_CE": 0.0,
+    "C2_WCE": 0.7273,
+    "C3_Focal": 0.0
+  },
+  "hingroberta_recall_class_0": {
+    "C4_CE": 0.0,
+    "C5_WCE": 0.7273,
+    "C6_Focal": 0.0
+  }
+}

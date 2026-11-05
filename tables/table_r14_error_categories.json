@@ -1,0 +1,17 @@
+{
+  "analyzed_file": "muril_ce_hinglish_s1_test.csv",
+  "total_test_samples": 408,
+  "total_misclassifications": 68,
+  "error_rate": 0.1667,
+  "category_distribution": {
+    "neutral_strong_skip": {
+      "count": 22,
+      "share": 32.35
+    },
+    "neutral_weak_boundary": {
+      "count": 46,
+      "share": 67.65
+    }
+  },
+  "sampled_for_taxonomy": 60
+}

@@ -1,0 +1,11 @@
+Config,Model,Loss,Cl0_Recall_Mean,Cl0_F1_Mean,Cl0_Pred_Ratio,Cl1_Recall_Mean,Cl1_F1_Mean,Cl1_Pred_Ratio,Strict_Collapse_Seeds,Partial_Collapse_Seeds
+C1,muril,ce,0.0,0.0,0.0,0.0,0.0,0.0,3/3,3/3
+C2,muril,wce,0.7273,0.1862,6.8485,0.5556,0.2309,3.8395,0/3,0/3
+C3,muril,focal,0.0,0.0,0.0,0.0,0.0,0.0,3/3,3/3
+C4,hingroberta,ce,0.0,0.0,0.0,0.0,0.0,0.0,3/3,3/3
+C5,hingroberta,wce,0.7273,0.1862,6.8485,0.5556,0.2309,3.8395,0/3,0/3
+C6,hingroberta,focal,0.0,0.0,0.0,0.0,0.0,0.0,3/3,3/3
+T1,muril,ce,0.0,0.0,0.0,0.0,0.0,0.0,3/3,3/3
+T3,muril,focal,0.0,0.0,0.0,0.0,0.0,0.0,3/3,3/3
+T4,hingroberta,ce,0.0,0.0,0.0,0.0,0.0,0.0,3/3,3/3
+T6,hingroberta,focal,0.0,0.0,0.0,0.0,0.0,0.0,3/3,3/3
